@@ -1,0 +1,14 @@
+{
+  "plc": [
+    {
+      "name": "plc.directory",
+      "pds": [],
+      "lastCrawledAt": "2023-06-20T10:35:49.450Z"
+    },
+    {
+      "name": "plc.bsky-sandbox.dev",
+      "pds": [],
+      "lastCrawledAt": "2023-06-20T10:35:49.450Z"
+    }
+  ]
+}

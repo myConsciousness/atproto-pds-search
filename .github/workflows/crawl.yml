@@ -1,0 +1,33 @@
+name: Crawl ATProto PDS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: dart-lang/setup-dart@v1.3
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Crawl ATProto PDS
+        run: dart run ./bin/crawl.dart
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          if git diff --quiet --cached
+          then
+            echo 'No changes to commit'
+          else
+            git commit -m '⭐️ Indexed New PDS ⭐️'
+            git push
+          fi
