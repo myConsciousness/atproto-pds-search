@@ -1,16 +1,16 @@
-# Crawled ATProto PDS
+# Crawled ATProto PDS 👀
 
-Last Crawled: 2023-06-29T06:27:47.684671Z
+Last Crawled: 2023-06-29T08:20:21.608684Z
 
-## plc.directory
+## **plc.directory**
 
-|Domain|Active|Invite Code Required|
+|PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
-|https://redocean.one|✅|❌|
-## plc.bsky-sandbox.dev
 
-|Domain|Active|Invite Code Required|
+## **plc.bsky-sandbox.dev**
+
+|PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://at.syui.ai|❌|❓|
 |https://n.redocean.one|✅|✅|
