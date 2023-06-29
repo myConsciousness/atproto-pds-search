@@ -19,12 +19,14 @@ jobs:
       - name: Crawl ATProto PDS
         run: dart run ./bin/crawl.dart
 
-      - name: Set Up Git
+      - name: Set up Git
         run: |
           git config --local user.email "contact@shinyakato.dev"
           git config --local user.name "GitHub Action"
           git config --local credential.helper store
           echo "https://$TOKEN:x-oauth-basic@github.com" > ~/.git-credentials
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
