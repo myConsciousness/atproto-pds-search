@@ -1,9 +1,9 @@
-name: Crawl ATProto PDS
+name: PDS Health Check
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "30 * * * *"
 
 jobs:
   build:
@@ -16,15 +16,15 @@ jobs:
       - name: Install dependencies
         run: dart pub get
 
-      - name: Crawl ATProto PDS
-        run: dart run ./bin/crawl.dart
+      - name: Check PDS Health
+        run: dart run ./bin/health_check.dart
 
       - name: Update README
         run: dart run ./bin/update_readme.dart
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[Scheduled] ⭐️ Indexed New PDS ⭐️"
+          commit_message: "[Scheduled] ⭐️ Checked PDS Health ⭐️"
           commit_user_name: myConsciousness
           commit_user_email: contact@shinyakato.dev
           commit_author: myConsciousness <contact@shinyakato.dev>
