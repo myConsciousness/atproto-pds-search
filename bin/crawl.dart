@@ -1,9 +1,6 @@
 import 'dart:io';
 
-import 'package:atproto_pds_crawler/atproto_pds_crawler.dart';
-import 'package:atproto_pds_crawler/core/io/index_file.dart';
-import 'package:atproto_pds_crawler/core/model/index.dart';
-import 'package:atproto_pds_crawler/core/model/pds.dart';
+import 'package:pds_indexer/pds_indexer.dart';
 
 Future<void> main() async {
   final indexFile = IndexFile();
