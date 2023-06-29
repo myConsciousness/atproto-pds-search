@@ -1,12 +1,13 @@
 # Crawled ATProto PDS 👀
 
-Last Crawled: 2023-06-29T08:20:21.608684Z
+Last Crawled: 2023-06-29T09:06:00.852668Z
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
+|https://boobee.blue|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
