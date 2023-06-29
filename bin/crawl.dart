@@ -33,7 +33,7 @@ String _buildReadMeTables(final Index index) {
     tables.writeln('## **${plc.name}**');
     tables.writeln();
 
-    tables.writeln('|Domain|Active|Invite Code Required|');
+    tables.writeln('|PDS Endpoint|Active|Invite Code Required|');
     tables.writeln('|---|:---:|:---:|');
 
     for (final pds in plc.pds) {
