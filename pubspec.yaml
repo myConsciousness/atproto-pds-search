@@ -1,6 +1,7 @@
-name: atproto_pds_crawler
-description: The crawler for PLC Directory.
+name: pds_indexer
+description: The indexer for AT Protocol PDS.
 version: 1.0.0
+publish_to: 'none'
 
 environment:
   sdk: ^3.0.0
