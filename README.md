@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Crawled: 2023-06-29T15:00:53.783604Z
+Last Crawled: 2023-06-29T16:00:53.186855Z
 
 ## **plc.directory**
 
@@ -9,6 +9,7 @@ Last Crawled: 2023-06-29T15:00:53.783604Z
 |https://bsky.social|✅|✅|
 |https://boobee.blue|✅|✅|
 |https://redocean.one|✅|❌|
+|https://uwu|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
