@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Crawled: 2023-06-29T12:10:49.970956Z
+Last Crawled: 2023-06-29T13:05:09.277720Z
 
 ## **plc.directory**
 
@@ -79,4 +79,5 @@ Last Crawled: 2023-06-29T12:10:49.970956Z
 |https://bsky.flatlander.social|✅|✅|
 |https://picopds.skyfeed.dev|❌|❓|
 |https://pds.sandbox.robocracy.org|✅|❌|
+|https://bskydev.usuzakuraya.us|✅|✅|
 
