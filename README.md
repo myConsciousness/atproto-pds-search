@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-06-30T21:39:09.769932
+Last Updated: 2023-06-30T22:01:05.926835
 
 ## **plc.directory**
 
@@ -82,4 +82,5 @@ Last Updated: 2023-06-30T21:39:09.769932
 |https://picopds.skyfeed.dev|✅|✅|
 |https://pds.sandbox.robocracy.org|✅|❌|
 |https://bskydev.usuzakuraya.us|❌|❓|
+|https://bsky.fbk.moe|✅|✅|
 
