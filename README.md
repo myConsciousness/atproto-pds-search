@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-01T18:01:07.314245
+Last Updated: 2023-07-01T18:39:38.159570
 
 ## **plc.directory**
 
@@ -8,7 +8,7 @@ Last Updated: 2023-07-01T18:01:07.314245
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
 |https://boobee.blue|✅|✅|
-|https://redocean.one|✅|❌|
+|https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|✅|❌|
 
