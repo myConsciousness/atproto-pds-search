@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-02T02:19:28.608059
+Last Updated: 2023-07-02T02:30:30.404426
 
 ## **plc.directory**
 
@@ -89,4 +89,5 @@ Last Updated: 2023-07-02T02:19:28.608059
 |https://bskysandbox.snek.dev|✅|✅|
 |https://bluesky.skcmcream.uk|❌|❓|
 |https://at.malte.re|✅|✅|
+|https://sleepy.cafe|✅|✅|
 
