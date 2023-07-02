@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-02T00:01:53.251189
+Last Updated: 2023-07-02T00:56:28.472584
 
 ## **plc.directory**
 
@@ -54,13 +54,13 @@ Last Updated: 2023-07-02T00:01:53.251189
 |https://bsky.pmj.rocks|❌|❓|
 |https://kawaikute-gomen.com|❌|❓|
 |https://pds-sb-2.goykasi.com|✅|✅|
-|https://bs.bridgey.dev|❌|❓|
+|https://bs.bridgey.dev|✅|✅|
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|✅|✅|
 |https://labo.moe|✅|✅|
 |https://test-pds.gwei.cz|✅|✅|
 |https://bsky.coma.social|✅|✅|
-|https://robramos.xyz|✅|✅|
+|https://robramos.xyz|❌|❓|
 |https://atsand.blueraccoon.tech|❌|❓|
 |https://sininen.neilikka.com|❌|❓|
 |https://atp.msnic.jp|❌|❓|
