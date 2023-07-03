@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-03T19:41:24.456403
+Last Updated: 2023-07-03T20:00:51.346804
 
 ## **plc.directory**
 
@@ -99,4 +99,5 @@ Last Updated: 2023-07-03T19:41:24.456403
 |https://laliho.club|✅|✅|
 |https://bsky.dead10ck.dev|✅|✅|
 |https://sky.costas.dev|✅|✅|
+|https://zalupa.in.ua|✅|✅|
 
