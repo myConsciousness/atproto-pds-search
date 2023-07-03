@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-03T20:41:34.147130
+Last Updated: 2023-07-03T21:00:56.885992
 
 ## **plc.directory**
 
@@ -100,4 +100,5 @@ Last Updated: 2023-07-03T20:41:34.147130
 |https://bsky.dead10ck.dev|✅|✅|
 |https://sky.costas.dev|✅|✅|
 |https://zalupa.in.ua|✅|✅|
+|https://bluesky.formless.xyz|✅|✅|
 
