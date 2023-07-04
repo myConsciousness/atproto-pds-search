@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-04T18:44:09.451730
+Last Updated: 2023-07-04T19:00:55.916895
 
 ## **plc.directory**
 
@@ -106,4 +106,5 @@ Last Updated: 2023-07-04T18:44:09.451730
 |https://bsky-pds.dolciss.net|✅|✅|
 |https://sandbox.erechorse.com|✅|✅|
 |https://atp.mywaverly.com|✅|✅|
+|https://pedrorbc.com|✅|✅|
 
