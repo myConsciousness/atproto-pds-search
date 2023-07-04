@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-04T14:00:50.747306
+Last Updated: 2023-07-04T14:44:45.738294
 
 ## **plc.directory**
 
@@ -29,7 +29,7 @@ Last Updated: 2023-07-04T14:00:50.747306
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
-|https://henshaw.org|✅|✅|
+|https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|✅|✅|
 |https://pds.jet.tf|✅|✅|
 |https://bsky.flicknow.xyz|❌|❓|
