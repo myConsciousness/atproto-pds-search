@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-05T13:43:55.471991
+Last Updated: 2023-07-05T14:01:07.788943
 
 ## **plc.directory**
 
@@ -110,4 +110,5 @@ Last Updated: 2023-07-05T13:43:55.471991
 |https://pedrorbc.com|✅|✅|
 |https://bsky.sergem.net|✅|✅|
 |https://dev.sysad.ninja|✅|✅|
+|https://bs.omellko.space|✅|✅|
 
