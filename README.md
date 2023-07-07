@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-07T21:42:01.666991
+Last Updated: 2023-07-07T22:01:00.630485
 
 ## **plc.directory**
 
@@ -121,4 +121,5 @@ Last Updated: 2023-07-07T21:42:01.666991
 |https://pds.holmosapien.com|✅|✅|
 |https://bs.sarukichi.yokohama|✅|✅|
 |https://bryanbskytest.cloudns.ph|❌|❓|
+|https://playtime.fm|✅|✅|
 
