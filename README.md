@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-08T14:42:07.490746
+Last Updated: 2023-07-08T15:00:50.916913
 
 ## **plc.directory**
 
@@ -125,4 +125,5 @@ Last Updated: 2023-07-08T14:42:07.490746
 |https://staging-skies.cloud|✅|✅|
 |https://omellko.space|❌|❓|
 |https://atdev.pilgrim.me.uk|✅|✅|
+|https://pds.bsapp.dev|❌|❓|
 
