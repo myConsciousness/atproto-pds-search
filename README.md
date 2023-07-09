@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-09T06:43:55.475922
+Last Updated: 2023-07-09T07:01:01.666124
 
 ## **plc.directory**
 
@@ -127,4 +127,6 @@ Last Updated: 2023-07-09T06:43:55.475922
 |https://atdev.pilgrim.me.uk|❌|❓|
 |https://pds.bsapp.dev|❌|❓|
 |https://z.kojira.io|✅|✅|
+|https://drasticactions.ninja|✅|✅|
+|https://igualdadreal.net|✅|✅|
 
