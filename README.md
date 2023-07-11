@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-11T16:01:06.982367
+Last Updated: 2023-07-11T16:50:07.153857
 
 ## **plc.directory**
 
@@ -137,6 +137,6 @@ Last Updated: 2023-07-11T16:01:06.982367
 |https://thoughtful.be|✅|✅|
 |https://nd9o.radio|✅|✅|
 |https://tansu.me|❌|❓|
-|https://raios.xyz|❌|❓|
+|https://raios.xyz|✅|✅|
 |https://otaku.blue|✅|✅|
 
