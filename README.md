@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-11T15:00:48.674875
+Last Updated: 2023-07-11T15:46:05.292076
 
 ## **plc.directory**
 
@@ -12,7 +12,7 @@ Last Updated: 2023-07-11T15:00:48.674875
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|✅|❌|
 |https://stems.social|✅|✅|
-|https://bsky.sacckey.dev|✅|✅|
+|https://bsky.sacckey.dev|❌|❓|
 |https://kitsune.nexus|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
