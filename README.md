@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-12T11:01:01.075984
+Last Updated: 2023-07-12T11:48:20.957391
 
 ## **plc.directory**
 
@@ -141,5 +141,5 @@ Last Updated: 2023-07-12T11:01:01.075984
 |https://otaku.blue|✅|✅|
 |https://mybskypds.dmoncada.com|✅|✅|
 |https://tinypds.h3y6e.com|❌|❓|
-|https://none.social|✅|✅|
+|https://none.social|❌|❓|
 
