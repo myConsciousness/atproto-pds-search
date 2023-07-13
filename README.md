@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-13T10:00:58.417690
+Last Updated: 2023-07-13T10:50:16.032182
 
 ## **plc.directory**
 
@@ -46,7 +46,7 @@ Last Updated: 2023-07-13T10:00:58.417690
 |https://syui.cf|❌|❓|
 |https://atproto.h3y6e.com|❌|❓|
 |https://pds.h3y6e.com|❌|❓|
-|https://blue.flowertea.uk|✅|✅|
+|https://blue.flowertea.uk|❌|❓|
 |https://bsky.picopico.party|❌|❓|
 |https://dirtybird.social|❌|❓|
 |https://matrix89.me|❌|❓|
