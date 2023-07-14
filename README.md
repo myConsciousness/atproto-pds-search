@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-14T13:05:37.307707
+Last Updated: 2023-07-14T13:52:11.692535
 
 ## **plc.directory**
 
@@ -125,7 +125,7 @@ Last Updated: 2023-07-14T13:05:37.307707
 |https://bryanbskytest.cloudns.ph|❌|❓|
 |https://playtime.fm|✅|✅|
 |https://staging-skies.cloud|❌|❓|
-|https://omellko.space|❌|❓|
+|https://omellko.space|✅|✅|
 |https://atdev.pilgrim.me.uk|❌|❓|
 |https://pds.bsapp.dev|❌|❓|
 |https://z.kojira.io|✅|✅|
