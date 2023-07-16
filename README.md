@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-16T12:01:01.126711
+Last Updated: 2023-07-16T13:03:33.875199
 
 ## **plc.directory**
 
@@ -51,7 +51,7 @@ Last Updated: 2023-07-16T12:01:01.126711
 |https://dirtybird.social|❌|❓|
 |https://matrix89.me|❌|❓|
 |https://at.thecubic.net|❌|❓|
-|https://pds.insanemode.org|❌|❓|
+|https://pds.insanemode.org|✅|✅|
 |https://bsky.asuna.dev|❌|❓|
 |https://pds-sb-1.goykasi.com|❌|❓|
 |https://bsky.pmj.rocks|✅|✅|
