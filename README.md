@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-16T20:52:47.391094
+Last Updated: 2023-07-16T21:00:58.044865
 
 ## **plc.directory**
 
@@ -147,4 +147,5 @@ Last Updated: 2023-07-16T20:52:47.391094
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|✅|✅|
 |https://sunairo.moegi.stream|✅|✅|
+|https://hus.gay|✅|✅|
 
