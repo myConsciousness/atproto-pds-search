@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-16T14:00:49.432869
+Last Updated: 2023-07-16T14:53:24.437112
 
 ## **plc.directory**
 
@@ -142,7 +142,7 @@ Last Updated: 2023-07-16T14:00:49.432869
 |https://mybskypds.dmoncada.com|✅|✅|
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
-|https://revpub.net|✅|✅|
+|https://revpub.net|❌|❓|
 |https://dawn.atproto.zigler.ai|✅|✅|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|✅|✅|
