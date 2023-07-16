@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-16T11:55:10.588585
+Last Updated: 2023-07-16T12:01:01.126711
 
 ## **plc.directory**
 
@@ -145,4 +145,5 @@ Last Updated: 2023-07-16T11:55:10.588585
 |https://revpub.net|✅|✅|
 |https://dawn.atproto.zigler.ai|✅|✅|
 |https://pds.stevenselph.com|❌|❓|
+|https://bsky.felipecruz.es|✅|✅|
 
