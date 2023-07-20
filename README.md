@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-20T05:01:08.130071
+Last Updated: 2023-07-20T05:52:24.050268
 
 ## **plc.directory**
 
@@ -151,5 +151,5 @@ Last Updated: 2023-07-20T05:01:08.130071
 |https://bsky.syui.ai|✅|✅|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|✅|✅|
-|https://pds.solarplex.xyz|❌|❓|
+|https://pds.solarplex.xyz|✅|✅|
 
