@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-20T12:01:07.467824
+Last Updated: 2023-07-20T13:03:18.819855
 
 ## **plc.directory**
 
@@ -73,7 +73,7 @@ Last Updated: 2023-07-20T12:01:07.467824
 |https://bskysb.sacckey.dev|✅|✅|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
-|https://bskyfurry.social|✅|✅|
+|https://bskyfurry.social|❌|❓|
 |https://rogerzhang.com|✅|✅|
 |https://bsky.chenrui.dev|✅|✅|
 |https://bsky.afoot.dev|✅|✅|
