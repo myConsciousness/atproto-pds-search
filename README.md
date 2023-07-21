@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-21T19:00:49.214846
+Last Updated: 2023-07-21T20:00:49.909299
 
 ## **plc.directory**
 
@@ -135,7 +135,7 @@ Last Updated: 2023-07-21T19:00:49.214846
 |https://bsky.monospacedmagic.dev|❌|❓|
 |https://fracjure.xyz|❌|❓|
 |https://thoughtful.be|❌|❓|
-|https://nd9o.radio|✅|✅|
+|https://nd9o.radio|❌|❓|
 |https://tansu.me|❌|❓|
 |https://raios.xyz|✅|✅|
 |https://otaku.blue|✅|✅|
