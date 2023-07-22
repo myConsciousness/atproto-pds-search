@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-22T18:00:49.634866
+Last Updated: 2023-07-22T18:59:08.527336
 
 ## **plc.directory**
 
@@ -8,7 +8,7 @@ Last Updated: 2023-07-22T18:00:49.634866
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
 |https://boobee.blue|✅|✅|
-|https://redocean.one|✅|❌|
+|https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|✅|❌|
 |https://stems.social|❌|❓|
@@ -69,7 +69,7 @@ Last Updated: 2023-07-22T18:00:49.634866
 |https://atp.msnic.jp|❌|❓|
 |https://sandbox.mofu.run|✅|✅|
 |https://sbpds.tenna.site|✅|✅|
-|https://pds.bsky.nyc|❌|❓|
+|https://pds.bsky.nyc|✅|✅|
 |https://bskysb.sacckey.dev|✅|✅|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
@@ -146,7 +146,7 @@ Last Updated: 2023-07-22T18:00:49.634866
 |https://dawn.atproto.zigler.ai|✅|✅|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
-|https://sunairo.moegi.stream|✅|✅|
+|https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|✅|✅|
 |https://bsky.syui.ai|✅|✅|
 |https://pixilin.social|❌|❓|
