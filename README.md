@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-23T20:00:45.863807
+Last Updated: 2023-07-23T21:00:53.426001
 
 ## **plc.directory**
 
@@ -154,4 +154,5 @@ Last Updated: 2023-07-23T20:00:45.863807
 |https://pds.solarplex.xyz|✅|❌|
 |https://pds.solarplex.xyz:3000|❌|❓|
 |https://threads.net.ua|✅|✅|
+|https://spacefrog.dev|✅|✅|
 
