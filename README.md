@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-24T22:58:58.806290
+Last Updated: 2023-07-24T23:00:58.518040
 
 ## **plc.directory**
 
@@ -158,4 +158,5 @@ Last Updated: 2023-07-24T22:58:58.806290
 |https://chaocide.com|✅|✅|
 |https://bsky.smudge.dog|❌|❓|
 |https://bsky.jakebrough.io|✅|✅|
+|https://protogen.world|✅|✅|
 
