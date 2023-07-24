@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-24T03:01:04.940001
+Last Updated: 2023-07-24T03:58:52.614631
 
 ## **plc.directory**
 
@@ -69,7 +69,7 @@ Last Updated: 2023-07-24T03:01:04.940001
 |https://atp.msnic.jp|❌|❓|
 |https://sandbox.mofu.run|✅|✅|
 |https://sbpds.tenna.site|✅|✅|
-|https://pds.bsky.nyc|❌|❓|
+|https://pds.bsky.nyc|✅|✅|
 |https://bskysb.sacckey.dev|✅|✅|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
@@ -142,7 +142,7 @@ Last Updated: 2023-07-24T03:01:04.940001
 |https://mybskypds.dmoncada.com|✅|✅|
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
-|https://revpub.net|✅|✅|
+|https://revpub.net|❌|❓|
 |https://dawn.atproto.zigler.ai|✅|✅|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
@@ -151,7 +151,7 @@ Last Updated: 2023-07-24T03:01:04.940001
 |https://bsky.syui.ai|✅|✅|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|✅|✅|
-|https://pds.solarplex.xyz|✅|❌|
+|https://pds.solarplex.xyz|❌|❓|
 |https://pds.solarplex.xyz:3000|❌|❓|
 |https://threads.net.ua|✅|✅|
 |https://spacefrog.dev|✅|✅|
