@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-26T01:15:58.378988
+Last Updated: 2023-07-26T01:27:41.049103
 
 ## **plc.directory**
 
@@ -172,4 +172,5 @@ Last Updated: 2023-07-26T01:15:58.378988
 |https://itsfreereal.estate|❌|❓|
 |https://bsky.linuxnerd.party|✅|✅|
 |https://bowmanfox.xyz|✅|✅|
+|https://awkwo.com|✅|✅|
 
