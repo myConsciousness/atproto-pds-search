@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-26T06:00:53.423266
+Last Updated: 2023-07-26T07:00:53.374768
 
 ## **plc.directory**
 
@@ -174,4 +174,5 @@ Last Updated: 2023-07-26T06:00:53.423266
 |https://bowmanfox.xyz|✅|✅|
 |https://awkwo.com|✅|✅|
 |https://cool.sirtaco221.com|✅|✅|
+|https://furrystreamers.de|✅|✅|
 
