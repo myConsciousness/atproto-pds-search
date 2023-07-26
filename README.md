@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-26T03:00:50.894326
+Last Updated: 2023-07-26T04:00:48.474554
 
 ## **plc.directory**
 
@@ -173,4 +173,5 @@ Last Updated: 2023-07-26T03:00:50.894326
 |https://bsky.linuxnerd.party|✅|✅|
 |https://bowmanfox.xyz|✅|✅|
 |https://awkwo.com|✅|✅|
+|https://cool.sirtaco221.com|✅|✅|
 
