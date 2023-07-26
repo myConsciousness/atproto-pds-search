@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-26T00:02:07.186522
+Last Updated: 2023-07-26T01:15:58.378988
 
 ## **plc.directory**
 
@@ -169,7 +169,7 @@ Last Updated: 2023-07-26T00:02:07.186522
 |https://example.com|❌|❓|
 |https://linuxnerd.party|❌|❓|
 |https://server.cafepots.net|✅|✅|
-|https://itsfreereal.estate|✅|✅|
+|https://itsfreereal.estate|❌|❓|
 |https://bsky.linuxnerd.party|✅|✅|
 |https://bowmanfox.xyz|✅|✅|
 
