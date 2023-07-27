@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-27T09:01:16.908075
+Last Updated: 2023-07-27T10:00:51.663343
 
 ## **plc.directory**
 
@@ -180,4 +180,6 @@ Last Updated: 2023-07-27T09:01:16.908075
 |https://eralyon.net|✅|✅|
 |https://scrapgoat.me|❌|❓|
 |https://bluueyote.com|✅|✅|
+|https://faroox.dev|❌|❓|
+|https://faroox.net|❌|❓|
 
