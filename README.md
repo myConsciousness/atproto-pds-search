@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-28T19:01:04.352664
+Last Updated: 2023-07-28T20:00:49.615270
 
 ## **plc.directory**
 
@@ -183,4 +183,5 @@ Last Updated: 2023-07-28T19:01:04.352664
 |https://faroox.dev|❌|❓|
 |https://faroox.net|❌|❓|
 |https://atprotodev.badpacman.io|✅|✅|
+|https://bs.miichelle.moe|✅|✅|
 
