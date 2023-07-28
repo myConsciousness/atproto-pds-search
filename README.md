@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-28T00:01:41.101979
+Last Updated: 2023-07-28T01:24:33.711719
 
 ## **plc.directory**
 
@@ -62,7 +62,7 @@ Last Updated: 2023-07-28T00:01:41.101979
 |https://dev.otaso-sky.blue|✅|✅|
 |https://labo.moe|✅|✅|
 |https://test-pds.gwei.cz|✅|✅|
-|https://bsky.coma.social|✅|✅|
+|https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
 |https://atsand.blueraccoon.tech|❌|❓|
 |https://sininen.neilikka.com|❌|❓|
@@ -147,7 +147,7 @@ Last Updated: 2023-07-28T00:01:41.101979
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
-|https://hus.gay|✅|✅|
+|https://hus.gay|❌|❓|
 |https://bsky.syui.ai|✅|✅|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|✅|✅|
@@ -155,7 +155,7 @@ Last Updated: 2023-07-28T00:01:41.101979
 |https://pds.solarplex.xyz:3000|❌|❓|
 |https://threads.net.ua|✅|✅|
 |https://spacefrog.dev|✅|✅|
-|https://chaocide.com|✅|✅|
+|https://chaocide.com|❌|❓|
 |https://bsky.smudge.dog|❌|❓|
 |https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|✅|✅|
@@ -168,14 +168,14 @@ Last Updated: 2023-07-28T00:01:41.101979
 |https://furry.nexus|✅|✅|
 |https://example.com|❌|❓|
 |https://linuxnerd.party|❌|❓|
-|https://server.cafepots.net|✅|✅|
+|https://server.cafepots.net|❌|❓|
 |https://itsfreereal.estate|❌|❓|
 |https://bsky.linuxnerd.party|✅|✅|
-|https://bowmanfox.xyz|✅|✅|
-|https://awkwo.com|✅|✅|
+|https://bowmanfox.xyz|❌|❓|
+|https://awkwo.com|❌|❓|
 |https://cool.sirtaco221.com|✅|✅|
-|https://furrystreamers.de|✅|✅|
-|https://ohh.moe|✅|✅|
+|https://furrystreamers.de|❌|❓|
+|https://ohh.moe|❌|❓|
 |https://bsky.mrsheen.live|✅|✅|
 |https://eralyon.net|✅|✅|
 |https://scrapgoat.me|❌|❓|
