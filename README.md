@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-29T21:01:01.687104
+Last Updated: 2023-07-29T22:00:54.891230
 
 ## **plc.directory**
 
@@ -185,4 +185,5 @@ Last Updated: 2023-07-29T21:01:01.687104
 |https://atprotodev.badpacman.io|✅|✅|
 |https://bs.miichelle.moe|✅|✅|
 |https://fomp.blue|✅|✅|
+|https://hu-e.uk|❌|❓|
 
