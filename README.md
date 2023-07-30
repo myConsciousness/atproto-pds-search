@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-30T00:01:51.277976
+Last Updated: 2023-07-30T01:17:01.909801
 
 ## **plc.directory**
 
@@ -69,7 +69,7 @@ Last Updated: 2023-07-30T00:01:51.277976
 |https://atp.msnic.jp|❌|❓|
 |https://sandbox.mofu.run|✅|✅|
 |https://sbpds.tenna.site|✅|✅|
-|https://pds.bsky.nyc|✅|✅|
+|https://pds.bsky.nyc|❌|❓|
 |https://bskysb.sacckey.dev|✅|✅|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
@@ -96,7 +96,7 @@ Last Updated: 2023-07-30T00:01:51.277976
 |https://sifir1.com|❌|❓|
 |https://bsky.belearner.dev|✅|✅|
 |https://ironlanderl.pp.ua|❌|❓|
-|https://bsky.mewmew.moe|✅|✅|
+|https://bsky.mewmew.moe|❌|❓|
 |https://bs.gyarbij.app|✅|✅|
 |https://verycoolperson.com|✅|✅|
 |https://laliho.club|✅|✅|
@@ -182,7 +182,7 @@ Last Updated: 2023-07-30T00:01:51.277976
 |https://bluueyote.com|✅|✅|
 |https://faroox.dev|❌|❓|
 |https://faroox.net|❌|❓|
-|https://atprotodev.badpacman.io|✅|✅|
+|https://atprotodev.badpacman.io|❌|❓|
 |https://bs.miichelle.moe|✅|✅|
 |https://fomp.blue|✅|✅|
 |https://hu-e.uk|❌|❓|
