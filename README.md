@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-07-30T01:27:18.594218
+Last Updated: 2023-07-30T02:13:07.688339
 
 ## **plc.directory**
 
@@ -186,4 +186,5 @@ Last Updated: 2023-07-30T01:27:18.594218
 |https://bs.miichelle.moe|✅|✅|
 |https://fomp.blue|✅|✅|
 |https://hu-e.uk|❌|❓|
+|https://dev.pds.ruthenic.com|✅|✅|
 
