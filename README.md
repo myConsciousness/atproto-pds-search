@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-01T20:00:48.971637
+Last Updated: 2023-08-01T21:01:03.492398
 
 ## **plc.directory**
 
@@ -189,4 +189,5 @@ Last Updated: 2023-08-01T20:00:48.971637
 |https://hu-e.uk|❌|❓|
 |https://dev.pds.ruthenic.com|✅|✅|
 |https://sandboxpds.bsky.sh|✅|✅|
+|https://susurrus.net|❌|❓|
 
