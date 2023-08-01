@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-01T00:01:42.841255
+Last Updated: 2023-08-01T01:15:42.982336
 
 ## **plc.directory**
 
@@ -40,7 +40,7 @@ Last Updated: 2023-08-01T00:01:42.841255
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
 |https://pds.ubanis.mydns.jp|✅|✅|
-|https://pds.bsky.sh|✅|✅|
+|https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|✅|✅|
 |http://localhost:3000|❌|❓|
 |https://testingpds.com|✅|✅|
@@ -60,7 +60,7 @@ Last Updated: 2023-08-01T00:01:42.841255
 |https://pds-sb-2.goykasi.com|❌|❓|
 |https://bs.bridgey.dev|❌|❓|
 |https://sandbox.pds.h3y6e.com|❌|❓|
-|https://dev.otaso-sky.blue|✅|✅|
+|https://dev.otaso-sky.blue|❌|❓|
 |https://labo.moe|✅|✅|
 |https://test-pds.gwei.cz|✅|✅|
 |https://bsky.coma.social|❌|❓|
@@ -70,13 +70,13 @@ Last Updated: 2023-08-01T00:01:42.841255
 |https://atp.msnic.jp|❌|❓|
 |https://sandbox.mofu.run|✅|✅|
 |https://sbpds.tenna.site|✅|✅|
-|https://pds.bsky.nyc|✅|✅|
+|https://pds.bsky.nyc|❌|❓|
 |https://bskysb.sacckey.dev|✅|✅|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
 |https://bskyfurry.social|❌|❓|
 |https://rogerzhang.com|❌|❓|
-|https://bsky.chenrui.dev|✅|✅|
+|https://bsky.chenrui.dev|❌|❓|
 |https://bsky.afoot.dev|✅|✅|
 |https://dispryt.xyz|✅|✅|
 |https://twodollarweb.site|✅|✅|
@@ -161,10 +161,10 @@ Last Updated: 2023-08-01T00:01:42.841255
 |https://bsky.jakebrough.io|✅|✅|
 |https://protogen.world|✅|✅|
 |https://dev.skyport.me|✅|✅|
-|https://pds.tenshicorn.dog|✅|✅|
+|https://pds.tenshicorn.dog|❌|❓|
 |https://gluon.rkevin.dev|✅|✅|
-|https://tenshicorn.dog|✅|✅|
-|https://pds.bdev.loves.reisen|✅|✅|
+|https://tenshicorn.dog|❌|❓|
+|https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|✅|✅|
 |https://furry.nexus|✅|✅|
 |https://example.com|❌|❓|
