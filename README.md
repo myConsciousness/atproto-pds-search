@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-02T00:01:56.276244
+Last Updated: 2023-08-02T01:13:29.751662
 
 ## **plc.directory**
 
@@ -51,7 +51,7 @@ Last Updated: 2023-08-02T00:01:56.276244
 |https://bsky.picopico.party|❌|❓|
 |https://dirtybird.social|❌|❓|
 |https://matrix89.me|❌|❓|
-|https://at.thecubic.net|❌|❓|
+|https://at.thecubic.net|✅|✅|
 |https://pds.insanemode.org|✅|✅|
 |https://bsky.asuna.dev|❌|❓|
 |https://pds-sb-1.goykasi.com|❌|❓|
@@ -77,7 +77,7 @@ Last Updated: 2023-08-02T00:01:56.276244
 |https://bskyfurry.social|❌|❓|
 |https://rogerzhang.com|❌|❓|
 |https://bsky.chenrui.dev|❌|❓|
-|https://bsky.afoot.dev|✅|✅|
+|https://bsky.afoot.dev|❌|❓|
 |https://dispryt.xyz|✅|✅|
 |https://twodollarweb.site|✅|✅|
 |https://at.heyh.ooo|❌|❓|
@@ -113,7 +113,7 @@ Last Updated: 2023-08-02T00:01:56.276244
 |https://pedrorbc.com|❌|❓|
 |https://bsky.sergem.net|❌|❓|
 |https://dev.sysad.ninja|✅|✅|
-|https://bs.omellko.space|✅|✅|
+|https://bs.omellko.space|❌|❓|
 |https://tezzi.com|❌|❓|
 |https://bsky.pedrorbc.com|❌|❓|
 |https://bs.tfgames.com.br|❌|❓|
