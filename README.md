@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-03T00:01:55.816042
+Last Updated: 2023-08-03T01:20:54.541920
 
 ## **plc.directory**
 
@@ -70,7 +70,7 @@ Last Updated: 2023-08-03T00:01:55.816042
 |https://atp.msnic.jp|❌|❓|
 |https://sandbox.mofu.run|✅|✅|
 |https://sbpds.tenna.site|✅|✅|
-|https://pds.bsky.nyc|❌|❓|
+|https://pds.bsky.nyc|✅|✅|
 |https://bskysb.sacckey.dev|✅|✅|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
@@ -113,7 +113,7 @@ Last Updated: 2023-08-03T00:01:55.816042
 |https://pedrorbc.com|❌|❓|
 |https://bsky.sergem.net|❌|❓|
 |https://dev.sysad.ninja|✅|✅|
-|https://bs.omellko.space|❌|❓|
+|https://bs.omellko.space|✅|✅|
 |https://tezzi.com|❌|❓|
 |https://bsky.pedrorbc.com|❌|❓|
 |https://bs.tfgames.com.br|❌|❓|
@@ -180,7 +180,7 @@ Last Updated: 2023-08-03T00:01:55.816042
 |https://bsky.mrsheen.live|❌|❓|
 |https://eralyon.net|✅|✅|
 |https://scrapgoat.me|❌|❓|
-|https://bluueyote.com|✅|✅|
+|https://bluueyote.com|❌|❓|
 |https://faroox.dev|❌|❓|
 |https://faroox.net|❌|❓|
 |https://atprotodev.badpacman.io|❌|❓|
