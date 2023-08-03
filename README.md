@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-03T20:00:56.787194
+Last Updated: 2023-08-03T21:00:59.206244
 
 ## **plc.directory**
 
@@ -192,4 +192,5 @@ Last Updated: 2023-08-03T20:00:56.787194
 |https://susurrus.net|❌|❓|
 |https://bsky.fedi-multi-verse.eu|❌|❓|
 |https://bsky.wildtree.jp|✅|✅|
+|https://sheslashher.net|✅|✅|
 
