@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-03T21:00:59.206244
+Last Updated: 2023-08-03T22:01:05.138177
 
 ## **plc.directory**
 
@@ -193,4 +193,5 @@ Last Updated: 2023-08-03T21:00:59.206244
 |https://bsky.fedi-multi-verse.eu|❌|❓|
 |https://bsky.wildtree.jp|✅|✅|
 |https://sheslashher.net|✅|✅|
+|https://bsky.minescripts.me|❌|❓|
 
