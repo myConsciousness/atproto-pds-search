@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-05T15:00:54.850506
+Last Updated: 2023-08-05T16:00:51.502207
 
 ## **plc.directory**
 
@@ -195,4 +195,5 @@ Last Updated: 2023-08-05T15:00:54.850506
 |https://sheslashher.net|✅|✅|
 |https://bsky.minescripts.me|❌|❓|
 |https://ubanis.mydns.jp|❌|❓|
+|https://blue-archive.social|✅|❌|
 
