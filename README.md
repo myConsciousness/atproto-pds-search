@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-07T17:00:59.438742
+Last Updated: 2023-08-07T18:01:00.219485
 
 ## **plc.directory**
 
@@ -197,4 +197,5 @@ Last Updated: 2023-08-07T17:00:59.438742
 |https://ubanis.mydns.jp|❌|❓|
 |https://blue-archive.social|✅|❌|
 |https://reckoneer.dev|❌|❓|
+|https://bsky.irodev.xyz|✅|✅|
 
