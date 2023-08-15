@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-15T14:02:01.558157
+Last Updated: 2023-08-15T15:25:59.960790
 
 ## **plc.directory**
 
@@ -16,22 +16,22 @@ Last Updated: 2023-08-15T14:02:01.558157
 |https://kitsune.nexus|❌|❓|
 |https://neosky.dev|✅|❌|
 |https://furmeet.me|✅|✅|
-|https://bsky.syui.ai|❌|❓|
+|https://bsky.syui.ai|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://at.syui.ai|❌|❓|
-|https://n.redocean.one|✅|✅|
+|https://n.redocean.one|✅|❌|
 |https://sandbox.whyr.us|✅|✅|
-|https://pds.dholms.xyz|❌|❓|
+|https://pds.dholms.xyz|✅|✅|
 |https://asia.friendlypds.cloud|❌|❓|
 |https://alt.dholms.xyz|❌|❓|
 |https://pds.anshnanda.com|❌|❓|
-|https://friendlypds.cloud|❌|❓|
+|https://friendlypds.cloud|✅|✅|
 |https://take2.dholms.xyz|❌|❓|
-|https://pds.dev.retr0.id|✅|✅|
+|https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
@@ -41,7 +41,7 @@ Last Updated: 2023-08-15T14:02:01.558157
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
 |https://sky.lalafell.org|✅|✅|
-|https://pds.ubanis.mydns.jp|❌|❓|
+|https://pds.ubanis.mydns.jp|✅|✅|
 |https://pds.bsky.sh|❌|❓|
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
@@ -109,7 +109,7 @@ Last Updated: 2023-08-15T14:02:01.558157
 |https://bluesky.formless.xyz|❌|❓|
 |https://mywaverly.com|❌|❓|
 |https://disbursement.center|✅|❌|
-|https://bsky-pds.dolciss.net|✅|✅|
+|https://bsky-pds.dolciss.net|❌|❓|
 |https://sandbox.erechorse.com|✅|✅|
 |https://atp.mywaverly.com|❌|❓|
 |https://pedrorbc.com|❌|❓|
@@ -146,13 +146,13 @@ Last Updated: 2023-08-15T14:02:01.558157
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
 |https://revpub.net|❌|❓|
-|https://dawn.atproto.zigler.ai|❌|❓|
+|https://dawn.atproto.zigler.ai|✅|✅|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
-|https://sunairo.moegi.stream|✅|❌|
+|https://sunairo.moegi.stream|❌|❓|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|❌|❓|
-|https://pixilin.social|❌|❓|
+|https://bsky.syui.ai|✅|✅|
+|https://pixilin.social|✅|✅|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
 |https://pds.solarplex.xyz:3000|❌|❓|
@@ -197,25 +197,25 @@ Last Updated: 2023-08-15T14:02:01.558157
 |https://sheslashher.net|❌|❓|
 |https://bsky.minescripts.me|❌|❓|
 |https://ubanis.mydns.jp|❌|❓|
-|https://blue-archive.social|✅|❌|
+|https://blue-archive.social|❌|❓|
 |https://reckoneer.dev|❌|❓|
 |https://bsky.irodev.xyz|✅|✅|
 |https://arroba-pds.appspot.com|✅|✅|
 |https://chirpnest.net|✅|✅|
 |https://waypast.cool|❌|❓|
 |https://cumdmp.me|✅|✅|
-|https://usemastodon.feathered.link|✅|✅|
-|https://usefedi.feathered.link|✅|✅|
+|https://usemastodon.feathered.link|❌|❓|
+|https://usefedi.feathered.link|❌|❓|
 |https://furmeet.me|✅|✅|
 |https://pds.bee.lol|❌|❓|
 |https://at.bee.lol|✅|✅|
 |https://pdz.bsky.nyc|✅|✅|
 |https://pds.zhuzhihao.me|✅|✅|
 |https://hooray.social|✅|✅|
-|https://pdsbx1.barine.co|✅|✅|
+|https://pdsbx1.barine.co|❌|❓|
 |https://bsky-sand.dolciss.net|✅|✅|
 |https://parra.social|✅|✅|
 |https://luxcario.com|✅|✅|
 |https://atpds.tjmccall.net|✅|✅|
-|https://sbx.barine.co|✅|✅|
+|https://sbx.barine.co|❌|❓|
 
