@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-16T14:04:03.935132
+Last Updated: 2023-08-16T15:05:20.913917
 
 ## **plc.directory**
 
@@ -16,7 +16,7 @@ Last Updated: 2023-08-16T14:04:03.935132
 |https://kitsune.nexus|❌|❓|
 |https://neosky.dev|✅|❌|
 |https://furmeet.me|✅|✅|
-|https://bsky.syui.ai|❌|❓|
+|https://bsky.syui.ai|✅|✅|
 
 ## **plc.bsky-sandbox.dev**
 
@@ -209,7 +209,7 @@ Last Updated: 2023-08-16T14:04:03.935132
 |https://furmeet.me|✅|✅|
 |https://pds.bee.lol|❌|❓|
 |https://at.bee.lol|✅|✅|
-|https://pdz.bsky.nyc|✅|✅|
+|https://pdz.bsky.nyc|❌|❓|
 |https://pds.zhuzhihao.me|✅|✅|
 |https://hooray.social|✅|✅|
 |https://pdsbx1.barine.co|❌|❓|
