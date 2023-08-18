@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-18T00:04:42.276228
+Last Updated: 2023-08-18T01:12:11.072818
 
 ## **plc.directory**
 
@@ -201,7 +201,7 @@ Last Updated: 2023-08-18T00:04:42.276228
 |https://blue-archive.social|❌|❓|
 |https://reckoneer.dev|❌|❓|
 |https://bsky.irodev.xyz|✅|✅|
-|https://arroba-pds.appspot.com|❌|❓|
+|https://arroba-pds.appspot.com|✅|✅|
 |https://chirpnest.net|❌|❓|
 |https://waypast.cool|❌|❓|
 |https://cumdmp.me|✅|✅|
