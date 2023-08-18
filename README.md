@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-18T03:07:38.984160
+Last Updated: 2023-08-18T04:02:03.229238
 
 ## **plc.directory**
 
@@ -224,4 +224,5 @@ Last Updated: 2023-08-18T03:07:38.984160
 |https://pds-dev.upcraft.dev|✅|✅|
 |https://lil.mn|❌|❓|
 |https://bsky.bulles.social|❌|❓|
+|https://nextsky.tokimeki.blue|✅|✅|
 
