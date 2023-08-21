@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-21T03:47:58.176308
+Last Updated: 2023-08-21T04:01:54.698609
 
 ## **plc.directory**
 
@@ -226,4 +226,5 @@ Last Updated: 2023-08-21T03:47:58.176308
 |https://bsky.bulles.social|❌|❓|
 |https://nextsky.tokimeki.blue|✅|✅|
 |https://pds-test.wackywolf.xyz|✅|✅|
+|https://xfxc.net|✅|✅|
 
