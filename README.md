@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-24T21:40:10.262454
+Last Updated: 2023-08-24T22:01:52.149768
 
 ## **plc.directory**
 
@@ -232,4 +232,5 @@ Last Updated: 2023-08-24T21:40:10.262454
 |https://bsky.oak.li|❌|❓|
 |https://pds.bamberger.dev|❌|❓|
 |https://x.kojira.io|❌|❓|
+|https://bluesky.enzonaute.fr|❌|❓|
 
