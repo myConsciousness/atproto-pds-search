@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-24T08:56:53.829216
+Last Updated: 2023-08-24T09:48:48.081961
 
 ## **plc.directory**
 
@@ -87,7 +87,7 @@ Last Updated: 2023-08-24T08:56:53.829216
 |https://usuasagi.0j0.jp|❌|❓|
 |https://bsky.flatlander.social|❌|❓|
 |https://picopds.skyfeed.dev|✅|✅|
-|https://pds.sandbox.robocracy.org|✅|❌|
+|https://pds.sandbox.robocracy.org|❌|❓|
 |https://bskydev.usuzakuraya.us|❌|❓|
 |https://bsky.fbk.moe|❌|❓|
 |https://sandbox.shitposting.vip|❌|❓|
