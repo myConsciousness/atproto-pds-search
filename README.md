@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-26T12:02:01.744830
+Last Updated: 2023-08-26T12:58:27.261473
 
 ## **plc.directory**
 
@@ -235,5 +235,5 @@ Last Updated: 2023-08-26T12:02:01.744830
 |https://bluesky.enzonaute.fr|❌|❓|
 |https://bsky.bark.lgbt|❌|❓|
 |https://furry.fail|✅|✅|
-|https://dprk.io|✅|✅|
+|https://dprk.io|❌|❓|
 
