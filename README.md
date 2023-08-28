@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-28T11:53:31.326482
+Last Updated: 2023-08-28T12:02:49.002687
 
 ## **plc.directory**
 
@@ -240,4 +240,5 @@ Last Updated: 2023-08-28T11:53:31.326482
 |https://balcony.social|✅|✅|
 |https://127.0.0.1:8080|❌|❓|
 |https://spice.computer|✅|✅|
+|https://sinu.dev|❌|❓|
 
