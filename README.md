@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-28T16:00:35.199331
+Last Updated: 2023-08-28T16:01:59.143981
 
 ## **plc.directory**
 
@@ -241,4 +241,5 @@ Last Updated: 2023-08-28T16:00:35.199331
 |https://127.0.0.1:8080|❌|❓|
 |https://spice.computer|✅|✅|
 |https://sinu.dev|❌|❓|
+|https://yipnyap.xyz|✅|✅|
 
