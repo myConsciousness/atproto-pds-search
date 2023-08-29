@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-29T15:00:57.266487
+Last Updated: 2023-08-29T16:02:05.695302
 
 ## **plc.directory**
 
@@ -244,4 +244,5 @@ Last Updated: 2023-08-29T15:00:57.266487
 |https://yipnyap.xyz|✅|✅|
 |https://alice-snow.me|❌|❓|
 |https://pds.terrenly.com|✅|✅|
+|https://at.openri.org|✅|✅|
 
