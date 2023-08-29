@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-29T17:53:29.274930
+Last Updated: 2023-08-29T18:02:02.483687
 
 ## **plc.directory**
 
@@ -245,4 +245,5 @@ Last Updated: 2023-08-29T17:53:29.274930
 |https://alice-snow.me|❌|❓|
 |https://pds.terrenly.com|✅|✅|
 |https://at.openri.org|❌|❓|
+|https://fjall.net|✅|✅|
 
