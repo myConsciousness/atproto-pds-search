@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-31T03:06:47.847092
+Last Updated: 2023-08-31T04:01:58.232072
 
 ## **plc.directory**
 
@@ -246,4 +246,5 @@ Last Updated: 2023-08-31T03:06:47.847092
 |https://pds.terrenly.com|✅|✅|
 |https://at.openri.org|❌|❓|
 |https://fjall.net|❌|❓|
+|https://localhost:8080|❌|❓|
 
