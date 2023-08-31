@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-08-31T07:04:33.828774
+Last Updated: 2023-08-31T08:04:08.007685
 
 ## **plc.directory**
 
@@ -247,4 +247,5 @@ Last Updated: 2023-08-31T07:04:33.828774
 |https://at.openri.org|❌|❓|
 |https://fjall.net|❌|❓|
 |https://localhost:8080|❌|❓|
+|https://bsky-test.harashio.jp|❌|❓|
 
