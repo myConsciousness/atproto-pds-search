@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-08T14:01:54.361128
+Last Updated: 2023-09-08T15:13:50.714486
 
 ## **plc.directory**
 
@@ -37,7 +37,7 @@ Last Updated: 2023-09-08T14:01:54.361128
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
 |https://henshaw.org|❌|❓|
-|https://pds.canidae.systems|✅|✅|
+|https://pds.canidae.systems|❌|❓|
 |https://pds.jet.tf|❌|❓|
 |https://bsky.flicknow.xyz|❌|❓|
 |https://thomasjerome.com|❌|❓|
