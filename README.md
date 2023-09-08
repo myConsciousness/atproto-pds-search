@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-08T05:10:17.987538
+Last Updated: 2023-09-08T06:02:02.675905
 
 ## **plc.directory**
 
@@ -257,4 +257,5 @@ Last Updated: 2023-09-08T05:10:17.987538
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
+|https://afternooncurry.com|✅|✅|
 
