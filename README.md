@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-08T19:06:54.290822
+Last Updated: 2023-09-08T20:02:02.659796
 
 ## **plc.directory**
 
@@ -259,4 +259,5 @@ Last Updated: 2023-09-08T19:06:54.290822
 |https://pds.staging.bteklabs.com|❌|❓|
 |https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|✅|✅|
+|https://zima.ge|✅|✅|
 
