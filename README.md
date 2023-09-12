@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-12T00:04:46.499391
+Last Updated: 2023-09-12T01:22:28.282489
 
 ## **plc.directory**
 
@@ -263,5 +263,5 @@ Last Updated: 2023-09-12T00:04:46.499391
 |https://bsk.lukas-diekmann.de|❌|❓|
 |https://bluesky.demokratie.cool|✅|✅|
 |https://itsastretch.net|❌|❓|
-|https://8w8project.com|✅|✅|
+|https://8w8project.com|❌|❓|
 
