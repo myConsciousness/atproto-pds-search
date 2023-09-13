@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-13T16:01:59.748090
+Last Updated: 2023-09-13T17:12:44.645247
 
 ## **plc.directory**
 
@@ -266,5 +266,5 @@ Last Updated: 2023-09-13T16:01:59.748090
 |https://8w8project.com|❌|❓|
 |https://bsky.looona.io|❌|❓|
 |https://bsky.femtoampere.art|✅|✅|
-|https://snowderg.gay|✅|✅|
+|https://snowderg.gay|❌|❓|
 
