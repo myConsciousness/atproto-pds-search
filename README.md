@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-15T19:16:50.065520
+Last Updated: 2023-09-15T20:02:00.140527
 
 ## **plc.directory**
 
@@ -269,4 +269,6 @@ Last Updated: 2023-09-15T19:16:50.065520
 |https://snowderg.gay|❌|❓|
 |https://social.anineko.net|❌|❓|
 |https://bsky-v3.dolciss.net|✅|✅|
+|https://bs.lf.je|✅|✅|
+|https://pds.jaz.sh|✅|✅|
 
