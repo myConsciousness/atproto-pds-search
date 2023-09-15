@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-15T02:08:44.060817
+Last Updated: 2023-09-15T03:21:26.464885
 
 ## **plc.directory**
 
@@ -26,7 +26,7 @@ Last Updated: 2023-09-15T02:08:44.060817
 |https://at.syui.ai|❌|❓|
 |https://n.redocean.one|✅|❌|
 |https://sandbox.whyr.us|❌|❓|
-|https://pds.dholms.xyz|✅|✅|
+|https://pds.dholms.xyz|❌|❓|
 |https://asia.friendlypds.cloud|❌|❓|
 |https://alt.dholms.xyz|❌|❓|
 |https://pds.anshnanda.com|❌|❓|
