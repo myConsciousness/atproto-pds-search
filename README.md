@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-15T12:02:18.049428
+Last Updated: 2023-09-15T13:14:30.314024
 
 ## **plc.directory**
 
@@ -239,7 +239,7 @@ Last Updated: 2023-09-15T12:02:18.049428
 |https://socialch.at|✅|✅|
 |https://balcony.social|✅|✅|
 |https://127.0.0.1:8080|❌|❓|
-|https://spice.computer|✅|✅|
+|https://spice.computer|❌|❓|
 |https://sinu.dev|❌|❓|
 |https://yipnyap.xyz|✅|✅|
 |https://alice-snow.me|❌|❓|
@@ -258,7 +258,7 @@ Last Updated: 2023-09-15T12:02:18.049428
 |http://localhost:8080/|❌|❓|
 |https://pds.staging.bteklabs.com|❌|❓|
 |https://afternooncurry.com|✅|✅|
-|https://bsky.whoverse.nexus|✅|✅|
+|https://bsky.whoverse.nexus|❌|❓|
 |https://zima.ge|✅|✅|
 |https://bsk.lukas-diekmann.de|❌|❓|
 |https://bluesky.demokratie.cool|❌|❓|
