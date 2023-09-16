@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-16T12:02:21.066513
+Last Updated: 2023-09-16T13:20:34.614908
 
 ## **plc.directory**
 
@@ -16,7 +16,7 @@ Last Updated: 2023-09-16T12:02:21.066513
 |https://kitsune.nexus|❌|❓|
 |https://neosky.dev|✅|❌|
 |https://furmeet.me|✅|✅|
-|https://bsky.syui.ai|✅|✅|
+|https://bsky.syui.ai|❌|❓|
 |http://localhost:3583|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
@@ -124,7 +124,7 @@ Last Updated: 2023-09-16T12:02:21.066513
 |https://bsky.shigepon.net|❌|❓|
 |https://bsky.jk.al|❌|❓|
 |https://kyderp.com|❌|❓|
-|https://pds.holmosapien.com|❌|❓|
+|https://pds.holmosapien.com|✅|✅|
 |https://bs.sarukichi.yokohama|❌|❓|
 |https://bryanbskytest.cloudns.ph|❌|❓|
 |https://playtime.fm|❌|❓|
@@ -152,7 +152,7 @@ Last Updated: 2023-09-16T12:02:21.066513
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|✅|✅|
+|https://bsky.syui.ai|❌|❓|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
