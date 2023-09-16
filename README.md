@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-16T11:13:34.187650
+Last Updated: 2023-09-16T12:02:21.066513
 
 ## **plc.directory**
 
@@ -271,4 +271,5 @@ Last Updated: 2023-09-16T11:13:34.187650
 |https://bsky-v3.dolciss.net|✅|✅|
 |https://bs.lf.je|✅|✅|
 |https://pds.jaz.sh|✅|✅|
+|https://atproto.eralyon.net|✅|✅|
 
