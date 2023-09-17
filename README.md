@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-17T03:20:18.441892
+Last Updated: 2023-09-17T04:02:13.360593
 
 ## **plc.directory**
 
@@ -272,4 +272,5 @@ Last Updated: 2023-09-17T03:20:18.441892
 |https://bs.lf.je|✅|✅|
 |https://pds.jaz.sh|✅|✅|
 |https://atproto.eralyon.net|✅|✅|
+|http://127.0.0.1:8080|❌|❓|
 
