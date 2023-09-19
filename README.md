@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-19T11:19:15.420856
+Last Updated: 2023-09-19T12:02:39.671057
 
 ## **plc.directory**
 
@@ -275,4 +275,6 @@ Last Updated: 2023-09-19T11:19:15.420856
 |http://127.0.0.1:8080|❌|❓|
 |https://ketamine.dog|✅|✅|
 |https://blacksky.app|✅|✅|
+|https://eper.tail3825e.ts.net|❌|❓|
+|http://localhost:2583|❌|❓|
 
