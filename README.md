@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-19T15:19:58.266612
+Last Updated: 2023-09-19T16:02:03.128421
 
 ## **plc.directory**
 
@@ -277,4 +277,5 @@ Last Updated: 2023-09-19T15:19:58.266612
 |https://blacksky.app|✅|✅|
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
+|https://bsk.carl0scheca.com|✅|✅|
 
