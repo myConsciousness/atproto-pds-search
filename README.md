@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-21T22:01:48.382478
+Last Updated: 2023-09-21T23:30:52.031809
 
 ## **plc.directory**
 
@@ -8,7 +8,7 @@ Last Updated: 2023-09-21T22:01:48.382478
 |---|:---:|:---:|
 |https://bsky.social|✅|✅|
 |https://boobee.blue|✅|✅|
-|https://redocean.one|✅|❌|
+|https://redocean.one|❌|❓|
 |https://uwu|❌|❓|
 |https://bluesky.nokotaro.com|✅|❌|
 |https://stems.social|❌|❓|
@@ -25,7 +25,7 @@ Last Updated: 2023-09-21T22:01:48.382478
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://at.syui.ai|❌|❓|
-|https://n.redocean.one|✅|❌|
+|https://n.redocean.one|❌|❓|
 |https://sandbox.whyr.us|✅|✅|
 |https://pds.dholms.xyz|✅|✅|
 |https://asia.friendlypds.cloud|❌|❓|
