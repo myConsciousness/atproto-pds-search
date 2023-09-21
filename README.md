@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-21T06:02:06.830535
+Last Updated: 2023-09-21T07:30:26.423997
 
 ## **plc.directory**
 
@@ -33,7 +33,7 @@ Last Updated: 2023-09-21T06:02:06.830535
 |https://pds.anshnanda.com|❌|❓|
 |https://friendlypds.cloud|✅|✅|
 |https://take2.dholms.xyz|❌|❓|
-|https://pds.dev.retr0.id|❌|❓|
+|https://pds.dev.retr0.id|✅|✅|
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
@@ -218,7 +218,7 @@ Last Updated: 2023-09-21T06:02:06.830535
 |https://bsky-sand.dolciss.net|❌|❓|
 |https://parra.social|✅|✅|
 |https://luxcario.com|✅|✅|
-|https://atpds.tjmccall.net|✅|✅|
+|https://atpds.tjmccall.net|❌|❓|
 |https://sbx.barine.co|❌|❓|
 |https://at.syui.ai:3040|❌|❓|
 |https://pdsbx.barine.co|❌|❓|
