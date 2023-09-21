@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-21T21:17:57.542091
+Last Updated: 2023-09-21T22:01:48.382478
 
 ## **plc.directory**
 
@@ -280,4 +280,5 @@ Last Updated: 2023-09-21T21:17:57.542091
 |http://localhost:2583|❌|❓|
 |https://bsk.carl0scheca.com|✅|✅|
 |https://thecoolsite.org|✅|✅|
+|https://bsky.zenti-im-zug.de|❌|❓|
 
