@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-22T16:01:56.937199
+Last Updated: 2023-09-22T17:13:50.289328
 
 ## **plc.directory**
 
@@ -122,7 +122,7 @@ Last Updated: 2023-09-22T16:01:56.937199
 |https://bsky.pedrorbc.com|❌|❓|
 |https://bs.tfgames.com.br|❌|❓|
 |https://sandbox.skyblue.social|❌|❓|
-|https://bsky.shigepon.net|✅|✅|
+|https://bsky.shigepon.net|❌|❓|
 |https://bsky.jk.al|❌|❓|
 |https://kyderp.com|❌|❓|
 |https://pds.holmosapien.com|✅|✅|
