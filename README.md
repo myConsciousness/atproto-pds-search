@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-22T22:01:59.721744
+Last Updated: 2023-09-22T23:09:24.215274
 
 ## **plc.directory**
 
@@ -166,7 +166,7 @@ Last Updated: 2023-09-22T22:01:59.721744
 |https://protogen.world|❌|❓|
 |https://dev.skyport.me|❌|❓|
 |https://pds.tenshicorn.dog|✅|✅|
-|https://gluon.rkevin.dev|✅|✅|
+|https://gluon.rkevin.dev|❌|❓|
 |https://tenshicorn.dog|✅|✅|
 |https://pds.bdev.loves.reisen|❌|❓|
 |https://d-twitter.com|❌|❓|
@@ -202,7 +202,7 @@ Last Updated: 2023-09-22T22:01:59.721744
 |https://blue-archive.social|✅|❌|
 |https://reckoneer.dev|❌|❓|
 |https://bsky.irodev.xyz|✅|✅|
-|https://arroba-pds.appspot.com|❌|❓|
+|https://arroba-pds.appspot.com|✅|✅|
 |https://chirpnest.net|❌|❓|
 |https://waypast.cool|❌|❓|
 |https://cumdmp.me|✅|✅|
