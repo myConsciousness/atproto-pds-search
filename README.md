@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-24T19:12:23.116673
+Last Updated: 2023-09-24T20:01:59.340979
 
 ## **plc.directory**
 
@@ -286,4 +286,6 @@ Last Updated: 2023-09-24T19:12:23.116673
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|✅|✅|
 |https://tsuki.social|✅|✅|
+|https://x-mweya.duckdns.org|✅|✅|
+|https://fraudulent.link|❌|❓|
 
