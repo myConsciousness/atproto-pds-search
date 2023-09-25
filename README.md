@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-25T21:08:58.423082
+Last Updated: 2023-09-25T22:01:58.789680
 
 ## **plc.directory**
 
@@ -290,4 +290,5 @@ Last Updated: 2023-09-25T21:08:58.423082
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|✅|✅|
 |https://b.browsersource.dev|❌|❓|
+|https://bbs.fraudulent.link|✅|✅|
 
