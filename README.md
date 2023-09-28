@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-28T15:23:21.114476
+Last Updated: 2023-09-28T16:02:10.362045
 
 ## **plc.directory**
 
@@ -294,4 +294,5 @@ Last Updated: 2023-09-28T15:23:21.114476
 |https://foo.example|❌|❓|
 |https://atptest.lep.wtf|✅|✅|
 |https://galaxy.neo7.kim|❌|❓|
+|https://broad.re|✅|❌|
 
