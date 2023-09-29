@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-09-29T08:01:58.824820
+Last Updated: 2023-09-29T09:26:38.926881
 
 ## **plc.directory**
 
@@ -249,7 +249,7 @@ Last Updated: 2023-09-29T08:01:58.824820
 |https://fjall.net|❌|❓|
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
-|https://bsky.awaken.page|✅|✅|
+|https://bsky.awaken.page|❌|❓|
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
