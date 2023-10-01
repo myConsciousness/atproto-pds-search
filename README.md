@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-01T11:22:02.825537
+Last Updated: 2023-10-01T12:02:21.278160
 
 ## **plc.directory**
 
@@ -299,4 +299,5 @@ Last Updated: 2023-10-01T11:22:02.825537
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|✅|✅|
+|https://bluesky.mwknet.de|✅|✅|
 
