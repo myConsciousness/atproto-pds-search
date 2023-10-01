@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-01T01:31:20.373941
+Last Updated: 2023-10-01T02:13:07.860990
 
 ## **plc.directory**
 
@@ -297,4 +297,6 @@ Last Updated: 2023-10-01T01:31:20.373941
 |https://broad.re|✅|❌|
 |https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
+|https://sky.hideside.de|✅|✅|
+|https://pds.jpco.io|✅|✅|
 
