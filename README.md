@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-02T09:21:41.257010
+Last Updated: 2023-10-02T10:01:57.351562
 
 ## **plc.directory**
 
@@ -301,4 +301,5 @@ Last Updated: 2023-10-02T09:21:41.257010
 |https://pds.jpco.io|✅|✅|
 |https://bluesky.mwknet.de|✅|✅|
 |https://social.lsmp.online|✅|✅|
+|https://aozora.yockow.test|❌|❓|
 
