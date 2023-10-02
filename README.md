@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-02T21:25:13.696646
+Last Updated: 2023-10-02T22:01:51.896395
 
 ## **plc.directory**
 
@@ -305,4 +305,5 @@ Last Updated: 2023-10-02T21:25:13.696646
 |https://veryun.cool|✅|✅|
 |https://xky.social|✅|✅|
 |https://furryrefuge.com|✅|✅|
+|https://b1.infra.hex.camp|❌|❓|
 
