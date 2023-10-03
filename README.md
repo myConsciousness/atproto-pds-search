@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-03T04:01:49.778473
+Last Updated: 2023-10-03T05:21:31.575862
 
 ## **plc.directory**
 
@@ -75,7 +75,7 @@ Last Updated: 2023-10-03T04:01:49.778473
 |https://sandbox.mofu.run|❌|❓|
 |https://sbpds.tenna.site|✅|✅|
 |https://pds.bsky.nyc|❌|❓|
-|https://bskysb.sacckey.dev|✅|✅|
+|https://bskysb.sacckey.dev|❌|❓|
 |https://sandbox.skyfeed.dev|❌|❓|
 |https://aozora.picopico.party|❌|❓|
 |https://bskyfurry.social|❌|❓|
