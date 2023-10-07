@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-07T21:33:07.032050
+Last Updated: 2023-10-07T22:01:54.029789
 
 ## **plc.directory**
 
@@ -326,4 +326,5 @@ Last Updated: 2023-10-07T21:33:07.032050
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|✅|✅|
 |https://ag.pet|❌|❓|
+|https://bsky.demo.kubero.dev|✅|✅|
 
