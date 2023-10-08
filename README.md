@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-08T12:02:24.119562
+Last Updated: 2023-10-08T13:38:36.586691
 
 ## **plc.directory**
 
@@ -25,7 +25,7 @@ Last Updated: 2023-10-08T12:02:24.119562
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
 |https://at.syui.ai|❌|❓|
-|https://n.redocean.one|✅|❌|
+|https://n.redocean.one|❌|❓|
 |https://sandbox.whyr.us|✅|✅|
 |https://pds.dholms.xyz|✅|✅|
 |https://asia.friendlypds.cloud|❌|❓|
