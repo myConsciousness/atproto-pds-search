@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-08T22:01:45.045785
+Last Updated: 2023-10-08T23:41:37.914327
 
 ## **plc.directory**
 
@@ -16,7 +16,7 @@ Last Updated: 2023-10-08T22:01:45.045785
 |https://kitsune.nexus|❌|❓|
 |https://neosky.dev|❌|❓|
 |https://furmeet.me|✅|✅|
-|https://bsky.syui.ai|✅|✅|
+|https://bsky.syui.ai|❌|❓|
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
 
@@ -48,7 +48,7 @@ Last Updated: 2023-10-08T22:01:45.045785
 |https://tjs-pds-sandbox.shop|❌|❓|
 |http://localhost:3000|❌|❓|
 |https://testingpds.com|✅|✅|
-|https://syui.cf|✅|✅|
+|https://syui.cf|❌|❓|
 |https://atproto.h3y6e.com|❌|❓|
 |https://pds.h3y6e.com|❌|❓|
 |https://blue.flowertea.uk|❌|❓|
@@ -153,7 +153,7 @@ Last Updated: 2023-10-08T22:01:45.045785
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|✅|✅|
+|https://bsky.syui.ai|❌|❓|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
@@ -299,7 +299,7 @@ Last Updated: 2023-10-08T22:01:45.045785
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
 |https://pds.jpco.io|✅|✅|
-|https://bluesky.mwknet.de|✅|✅|
+|https://bluesky.mwknet.de|❌|❓|
 |https://social.lsmp.online|❌|❓|
 |https://aozora.yockow.test|❌|❓|
 |https://veryun.cool|✅|✅|
