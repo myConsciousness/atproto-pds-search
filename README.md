@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-09T00:05:10.342040
+Last Updated: 2023-10-09T01:51:08.876942
 
 ## **plc.directory**
 
@@ -327,7 +327,7 @@ Last Updated: 2023-10-09T00:05:10.342040
 |https://bskysbox.amith.sbs|✅|✅|
 |https://ag.pet|❌|❓|
 |https://bsky.demo.kubero.dev|✅|✅|
-|https://bsky.cu2d.com|✅|✅|
+|https://bsky.cu2d.com|❌|❓|
 |https://yyj.whims.io|✅|✅|
 |https://pds.flm9.me|✅|✅|
 |https://instanzfreun.de|✅|✅|
