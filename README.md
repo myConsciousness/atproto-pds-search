@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-11T17:31:22.121019
+Last Updated: 2023-10-11T18:02:04.777808
 
 ## **plc.directory**
 
@@ -335,4 +335,5 @@ Last Updated: 2023-10-11T17:31:22.121019
 |https://pds.apppel.nl|✅|✅|
 |https://bluesky.home.foxocube.xyz|❌|❓|
 |https://mediumeffortmedia.co.uk|❌|❓|
+|https://bluesky.p82.it|✅|✅|
 
