@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-12T15:28:35.892
+Last Updated: 2023-10-12T16:01:55.642757
 
 ## **plc.directory**
 
@@ -339,4 +339,6 @@ Last Updated: 2023-10-12T15:28:35.892
 |https://aozora.yockow.jp|✅|✅|
 |https://econcom.org|❌|❓|
 |https://pds.entreco.org|✅|✅|
+|https://himmelblau.bigbl4ckw0lf.de|❌|❓|
+|https://bsky.bigbl4ckw0lf.de|✅|✅|
 
