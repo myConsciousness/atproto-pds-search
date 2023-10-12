@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-12T18:02:01.211685
+Last Updated: 2023-10-12T19:30:32.234359
 
 ## **plc.directory**
 
@@ -322,7 +322,7 @@ Last Updated: 2023-10-12T18:02:01.211685
 |https://blue.cb-homelab.de|✅|✅|
 |https://x.kex.biz|❌|❓|
 |https://kiichigo.cloud|✅|✅|
-|https://atsandbox.kyriog.fr|❌|❓|
+|https://atsandbox.kyriog.fr|✅|✅|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|✅|✅|
 |https://ag.pet|❌|❓|
