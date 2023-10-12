@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-12T00:04:41.225868
+Last Updated: 2023-10-12T01:48:11.079312
 
 ## **plc.directory**
 
@@ -240,7 +240,7 @@ Last Updated: 2023-10-12T00:04:41.225868
 |https://socialch.at|✅|✅|
 |https://balcony.social|✅|✅|
 |https://127.0.0.1:8080|❌|❓|
-|https://spice.computer|✅|✅|
+|https://spice.computer|❌|❓|
 |https://sinu.dev|❌|❓|
 |https://yipnyap.xyz|❌|❓|
 |https://alice-snow.me|❌|❓|
