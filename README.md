@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-13T15:30:19.980813
+Last Updated: 2023-10-13T16:01:55.053868
 
 ## **plc.directory**
 
@@ -342,4 +342,5 @@ Last Updated: 2023-10-13T15:30:19.980813
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
 |https://bsky.bigbl4ckw0lf.de|✅|✅|
 |https://social.nicht-existent.de|✅|✅|
+|https://pds.fortunaexmachina.com|✅|✅|
 
