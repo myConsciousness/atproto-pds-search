@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-13T00:05:19.540947
+Last Updated: 2023-10-13T01:49:18.482070
 
 ## **plc.directory**
 
@@ -153,7 +153,7 @@ Last Updated: 2023-10-13T00:05:19.540947
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|❌|❓|
+|https://bsky.syui.ai|✅|❌|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
@@ -298,7 +298,7 @@ Last Updated: 2023-10-13T00:05:19.540947
 |https://fed.brid.gy/|✅|✅|
 |https://bsky.kwilium.xyz|❌|❓|
 |https://sky.hideside.de|✅|✅|
-|https://pds.jpco.io|✅|✅|
+|https://pds.jpco.io|❌|❓|
 |https://bluesky.mwknet.de|❌|❓|
 |https://social.lsmp.online|❌|❓|
 |https://aozora.yockow.test|❌|❓|
