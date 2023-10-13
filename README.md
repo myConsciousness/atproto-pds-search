@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-13T11:27:51.215734
+Last Updated: 2023-10-13T12:02:31.265747
 
 ## **plc.directory**
 
@@ -341,4 +341,5 @@ Last Updated: 2023-10-13T11:27:51.215734
 |https://pds.entreco.org|✅|✅|
 |https://himmelblau.bigbl4ckw0lf.de|❌|❓|
 |https://bsky.bigbl4ckw0lf.de|✅|✅|
+|https://social.nicht-existent.de|✅|✅|
 
