@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-14T03:31:57.195426
+Last Updated: 2023-10-14T04:01:57.997826
 
 ## **plc.directory**
 
@@ -343,4 +343,5 @@ Last Updated: 2023-10-14T03:31:57.195426
 |https://bsky.bigbl4ckw0lf.de|✅|✅|
 |https://social.nicht-existent.de|✅|✅|
 |https://pds.fortunaexmachina.com|✅|✅|
+|http://localhost:12025|❌|❓|
 
