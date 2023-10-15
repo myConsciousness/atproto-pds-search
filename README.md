@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-15T09:29:59.124716
+Last Updated: 2023-10-15T10:01:54.448018
 
 ## **plc.directory**
 
@@ -347,4 +347,5 @@ Last Updated: 2023-10-15T09:29:59.124716
 |https://b.schroedingerscat.org|✅|✅|
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
+|https://hug.mx|✅|✅|
 
