@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-15T11:36:08.422193
+Last Updated: 2023-10-15T12:02:34.471057
 
 ## **plc.directory**
 
@@ -19,6 +19,7 @@ Last Updated: 2023-10-15T11:36:08.422193
 |https://bsky.syui.ai|✅|❌|
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
+|https://api.redocean.one|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
@@ -348,4 +349,5 @@ Last Updated: 2023-10-15T11:36:08.422193
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|✅|✅|
+|https://bsky.zoeyvid.de|✅|✅|
 
