@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-16T17:38:48.479481
+Last Updated: 2023-10-16T18:02:40.493078
 
 ## **plc.directory**
 
@@ -20,6 +20,7 @@ Last Updated: 2023-10-16T17:38:48.479481
 |http://localhost:3583|❌|❓|
 |https://atproto.forza7.org|❌|❓|
 |https://api.redocean.one|❌|❓|
+|https://broad.re|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
