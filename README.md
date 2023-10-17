@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-17T22:01:48.285297
+Last Updated: 2023-10-17T23:47:51.608753
 
 ## **plc.directory**
 
@@ -355,5 +355,5 @@ Last Updated: 2023-10-17T22:01:48.285297
 |https://joost.social|✅|✅|
 |https://journalist.social|✅|✅|
 |https://creaton.social|✅|✅|
-|https://nerdynate.io|✅|✅|
+|https://nerdynate.io|❌|❓|
 
