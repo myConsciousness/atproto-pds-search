@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-17T12:03:03.778312
+Last Updated: 2023-10-17T13:45:02.546147
 
 ## **plc.directory**
 
@@ -242,7 +242,7 @@ Last Updated: 2023-10-17T12:03:03.778312
 |https://socialch.at|✅|✅|
 |https://balcony.social|❌|❓|
 |https://127.0.0.1:8080|❌|❓|
-|https://spice.computer|✅|✅|
+|https://spice.computer|❌|❓|
 |https://sinu.dev|❌|❓|
 |https://yipnyap.xyz|❌|❓|
 |https://alice-snow.me|❌|❓|
@@ -255,7 +255,7 @@ Last Updated: 2023-10-17T12:03:03.778312
 |https://bum.ninja|✅|✅|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
-|https://vengeful.eu|❌|❓|
+|https://vengeful.eu|✅|✅|
 |https://draconic.host|❌|❓|
 |https://bsky.social-hell.uk|✅|✅|
 |http://localhost:8080/|❌|❓|
