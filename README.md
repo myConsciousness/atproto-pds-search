@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-20T03:56:32.985413
+Last Updated: 2023-10-20T04:01:58.248823
 
 ## **plc.directory**
 
@@ -369,4 +369,7 @@ Last Updated: 2023-10-20T03:56:32.985413
 |https://belana.epicgreen.nl|✅|✅|
 |https://cjdd.me|❌|❓|
 |https://kevin.fur.vip|✅|✅|
+|https://bs.vrccl.life|✅|✅|
+|https://bsky.fursion.top|✅|✅|
+|https://bsky.riversideleft.org.uk|✅|✅|
 
