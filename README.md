@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-20T16:01:59.783467
+Last Updated: 2023-10-20T17:57:16.096168
 
 ## **plc.directory**
 
@@ -282,7 +282,7 @@ Last Updated: 2023-10-20T16:01:59.783467
 |https://eper.tail3825e.ts.net|❌|❓|
 |http://localhost:2583|❌|❓|
 |https://bsk.carl0scheca.com|✅|✅|
-|https://thecoolsite.org|✅|✅|
+|https://thecoolsite.org|❌|❓|
 |https://bsky.zenti-im-zug.de|❌|❓|
 |https://bluesky.furryrefuge.com|❌|❓|
 |https://pds.evns.dev|❌|❓|
@@ -371,5 +371,5 @@ Last Updated: 2023-10-20T16:01:59.783467
 |https://kevin.fur.vip|✅|✅|
 |https://bs.vrccl.life|✅|✅|
 |https://bsky.fursion.top|✅|✅|
-|https://bsky.riversideleft.org.uk|❌|❓|
+|https://bsky.riversideleft.org.uk|✅|✅|
 
