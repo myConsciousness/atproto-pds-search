@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-22T11:54:09.336670
+Last Updated: 2023-10-22T12:02:19.145623
 
 ## **plc.directory**
 
@@ -377,4 +377,6 @@ Last Updated: 2023-10-22T11:54:09.336670
 |https://bsky.ponscele.fr|✅|✅|
 |https://bluesky.animint.fr|✅|✅|
 |https://sardine.pics|✅|✅|
+|https://baisodro.me|✅|✅|
+|https://bluesky-pds.fly.dev|❌|❓|
 
