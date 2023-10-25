@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-25T21:52:03.306894
+Last Updated: 2023-10-25T22:01:56.791578
 
 ## **plc.directory**
 
@@ -385,4 +385,5 @@ Last Updated: 2023-10-25T21:52:03.306894
 |https://trapobezieher.de|✅|✅|
 |https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
+|https://bs1.tuusulan.com|✅|✅|
 
