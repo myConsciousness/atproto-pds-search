@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-30T20:01:48.102422
+Last Updated: 2023-10-30T21:54:11.336518
 
 ## **plc.directory**
 
@@ -351,7 +351,7 @@ Last Updated: 2023-10-30T20:01:48.102422
 |https://bskysandbox.edavis.dev|✅|✅|
 |https://social.derg.fr|✅|✅|
 |https://hug.mx|✅|✅|
-|https://bsky.zoeyvid.de|✅|✅|
+|https://bsky.zoeyvid.de|❌|❓|
 |https://maddesjg.eu|✅|✅|
 |https://joost.social|✅|✅|
 |https://journalist.social|✅|✅|
@@ -385,7 +385,7 @@ Last Updated: 2023-10-30T20:01:48.102422
 |https://trapobezieher.de|❌|❓|
 |https://yggdrasil.daetsisi.es|✅|✅|
 |https://bsky.muzzlespace.com|❌|❓|
-|https://bs1.tuusulan.com|✅|✅|
+|https://bs1.tuusulan.com|❌|❓|
 |https://bluesky.gautier.gg|❌|❓|
 |https://qcrg.space|❌|❓|
 |https://pds.qcrg.space|❌|❓|
