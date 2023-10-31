@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-10-31T04:02:00.635787
+Last Updated: 2023-10-31T05:47:57.055330
 
 ## **plc.directory**
 
@@ -36,7 +36,7 @@ Last Updated: 2023-10-31T04:02:00.635787
 |https://pds.anshnanda.com|❌|❓|
 |https://friendlypds.cloud|✅|✅|
 |https://take2.dholms.xyz|❌|❓|
-|https://pds.dev.retr0.id|❌|❓|
+|https://pds.dev.retr0.id|✅|✅|
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
 |https://bsky.pupbrained.xyz|❌|❓|
