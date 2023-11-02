@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-02T06:02:07.694606
+Last Updated: 2023-11-02T07:50:29.394453
 
 ## **plc.directory**
 
@@ -116,7 +116,7 @@ Last Updated: 2023-11-02T06:02:07.694606
 |https://mywaverly.com|❌|❓|
 |https://disbursement.center|✅|❌|
 |https://bsky-pds.dolciss.net|❌|❓|
-|https://sandbox.erechorse.com|✅|✅|
+|https://sandbox.erechorse.com|❌|❓|
 |https://atp.mywaverly.com|❌|❓|
 |https://pedrorbc.com|❌|❓|
 |https://bsky.sergem.net|❌|❓|
