@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-03T04:01:55.493323
+Last Updated: 2023-11-03T05:53:57.869200
 
 ## **plc.directory**
 
@@ -157,7 +157,7 @@ Last Updated: 2023-11-03T04:01:55.493323
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|✅|❌|
 |https://hus.gay|❌|❓|
-|https://bsky.syui.ai|✅|❌|
+|https://bsky.syui.ai|❌|❓|
 |https://pixilin.social|❌|❓|
 |https://tagz.social|❌|❓|
 |https://pds.solarplex.xyz|❌|❓|
