@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-07T15:53:12.452262
+Last Updated: 2023-11-07T16:01:52.514319
 
 ## **plc.directory**
 
@@ -406,4 +406,5 @@ Last Updated: 2023-11-07T15:53:12.452262
 |https://aituns.com|✅|✅|
 |https://italiansky.mooo.com|✅|✅|
 |https://sky.n3otrax.fr|✅|✅|
+|https://bsky.powerg.love|✅|✅|
 
