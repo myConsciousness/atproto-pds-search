@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-08T19:57:51.584480
+Last Updated: 2023-11-08T20:01:54.176901
 
 ## **plc.directory**
 
@@ -410,4 +410,6 @@ Last Updated: 2023-11-08T19:57:51.584480
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|✅|✅|
 |https://bsky.mrsquaare.fr|❌|❓|
+|https://montpeyroux.social|✅|✅|
+|https://blueskysweden.se|✅|✅|
 
