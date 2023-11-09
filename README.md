@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-09T15:58:36.565492
+Last Updated: 2023-11-09T16:04:12.230549
 
 ## **plc.directory**
 
@@ -23,6 +23,7 @@ Last Updated: 2023-11-09T15:58:36.565492
 |https://broad.re|❌|❓|
 |https://pds.example.com|❌|❓|
 |https://redocen.one|❌|❓|
+|http://localhost:12025|❌|❓|
 
 ## **plc.bsky-sandbox.dev**
 
@@ -413,4 +414,5 @@ Last Updated: 2023-11-09T15:58:36.565492
 |https://montpeyroux.social|✅|✅|
 |https://blueskysweden.se|✅|✅|
 |https://pds.home.rjp.is|✅|✅|
+|https://posting.expert|❌|❓|
 
