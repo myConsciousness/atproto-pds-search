@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-14T12:02:37.232553
+Last Updated: 2023-11-14T13:57:03.710867
 
 ## **plc.directory**
 
@@ -357,7 +357,7 @@ Last Updated: 2023-11-14T12:02:37.232553
 |https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|✅|✅|
 |https://joost.social|✅|✅|
-|https://journalist.social|✅|✅|
+|https://journalist.social|❌|❓|
 |https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
