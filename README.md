@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-20T15:57:24.860710
+Last Updated: 2023-11-20T16:01:55.520243
 
 ## **plc.directory**
 
@@ -426,4 +426,5 @@ Last Updated: 2023-11-20T15:57:24.860710
 |https://derpzilla.net|✅|✅|
 |https://musicproduction.world|❌|❓|
 |https://corgi.dance|❌|❓|
+|https://atproto.stereosteve.com|✅|✅|
 
