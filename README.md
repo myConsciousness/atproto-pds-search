@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-21T04:01:54.806893
+Last Updated: 2023-11-21T06:02:17.677889
 
 ## **plc.directory**
 
@@ -429,4 +429,5 @@ Last Updated: 2023-11-21T04:01:54.806893
 |https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|✅|✅|
 |https://casadeladra.ddnss.de|✅|✅|
+|https://blues.psionprotocol.com|✅|✅|
 
