@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-21T15:56:10.416287
+Last Updated: 2023-11-21T16:01:58.654468
 
 ## **plc.directory**
 
@@ -430,4 +430,5 @@ Last Updated: 2023-11-21T15:56:10.416287
 |https://atproto.stereosteve.com|✅|✅|
 |https://casadeladra.ddnss.de|✅|✅|
 |https://blues.psionprotocol.com|✅|✅|
+|https://bs.corrigan.xyz|❌|❓|
 
