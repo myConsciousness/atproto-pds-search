@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-22T11:58:02.964287
+Last Updated: 2023-11-22T12:02:38.466783
 
 ## **plc.directory**
 
@@ -432,4 +432,5 @@ Last Updated: 2023-11-22T11:58:02.964287
 |https://blues.psionprotocol.com|✅|✅|
 |https://bs.corrigan.xyz|❌|❓|
 |https://pds.octelly.lol|❌|❓|
+|https://is.lalafell.fun|✅|✅|
 
