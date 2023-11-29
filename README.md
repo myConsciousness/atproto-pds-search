@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-11-29T18:01:56.768020
+Last Updated: 2023-11-29T20:01:46.063780
 
 ## **plc.directory**
 
@@ -440,4 +440,5 @@ Last Updated: 2023-11-29T18:01:56.768020
 |https://bsky-hcc8588.f5.si|❌|❓|
 |https://bingerin.online|✅|✅|
 |https://pdshosting.xyz|✅|✅|
+|https://bs.mymx.me|✅|✅|
 
