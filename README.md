@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-18T22:01:42.073542
+Last Updated: 2023-12-19T00:05:09.489910
 
 ## **plc.directory**
 
@@ -456,4 +456,5 @@ Last Updated: 2023-12-18T22:01:42.073542
 |https://bluesky.kosti.dev|✅|✅|
 |https://fammar.synology.com|❌|❓|
 |https://social.theculture.fm|✅|✅|
+|https://bluesky.schmueth.de|✅|✅|
 
