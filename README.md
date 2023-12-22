@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-22T00:05:23.182648
+Last Updated: 2023-12-22T02:10:31.781213
 
 ## **plc.directory**
 
@@ -459,4 +459,5 @@ Last Updated: 2023-12-22T00:05:23.182648
 |https://bluesky.schmueth.de|✅|✅|
 |https://cfultz.wtf|❌|❓|
 |https://vybihal.cz|✅|✅|
+|https://louis-c-novel.com|✅|❌|
 
