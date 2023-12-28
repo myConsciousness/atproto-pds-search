@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2023-12-28T04:02:28.224266
+Last Updated: 2023-12-28T06:02:02.781515
 
 ## **plc.directory**
 
@@ -471,4 +471,5 @@ Last Updated: 2023-12-28T04:02:28.224266
 |https://maneki-neko.nl|✅|✅|
 |https://dopsky.social|✅|✅|
 |https://bsky.cryptomata.com|✅|✅|
+|https://arl-bsky-pds.arl.jp|✅|✅|
 
