@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-09T20:02:01.012746
+Last Updated: 2024-01-09T22:01:48.616628
 
 ## **plc.directory**
 
@@ -485,4 +485,6 @@ Last Updated: 2024-01-09T20:02:01.012746
 |https://bsky.iame.li|✅|✅|
 |https://moseswynn.com|❌|❓|
 |https://pds.brennon.tech|✅|✅|
+|https://pds.twixy.app|❌|❓|
+|https://reallyme.social|✅|✅|
 
