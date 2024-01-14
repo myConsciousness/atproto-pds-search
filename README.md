@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-14T12:02:22.376368
+Last Updated: 2024-01-14T14:01:42.073784
 
 ## **plc.directory**
 
@@ -490,4 +490,5 @@ Last Updated: 2024-01-14T12:02:22.376368
 |https://bluesky.marron.mk|❌|❓|
 |https://iameli.xyz|✅|✅|
 |https://bsky.studiofreesia.com|✅|✅|
+|https://xsky.world|✅|❌|
 
