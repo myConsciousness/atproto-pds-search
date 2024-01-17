@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-17T08:01:56.767169
+Last Updated: 2024-01-17T10:03:59.754609
 
 ## **plc.directory**
 
@@ -494,4 +494,5 @@ Last Updated: 2024-01-17T08:01:56.767169
 |https://bsky.trpger.us|❌|❓|
 |https://magroan.work|❌|❓|
 |https://uplove.co.uk|✅|✅|
+|https://skyscapesocial.app|❌|❓|
 
