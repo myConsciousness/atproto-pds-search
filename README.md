@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-19T10:01:43.851049
+Last Updated: 2024-01-19T12:02:31.386097
 
 ## **plc.directory**
 
@@ -496,4 +496,5 @@ Last Updated: 2024-01-19T10:01:43.851049
 |https://uplove.co.uk|✅|✅|
 |https://skyscapesocial.app|❌|❓|
 |https://imbirus.ddns.net|❌|❓|
+|https://libertywave.app|✅|✅|
 
