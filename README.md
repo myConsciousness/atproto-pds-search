@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-22T12:02:36.364159
+Last Updated: 2024-01-22T14:01:48.388595
 
 ## **plc.directory**
 
@@ -499,4 +499,5 @@ Last Updated: 2024-01-22T12:02:36.364159
 |https://libertywave.app|✅|✅|
 |https://bluesky.expectus.fyi|✅|✅|
 |https://sbx.bsky.day|❌|❓|
+|https://sandbox.bsky.day|✅|✅|
 
