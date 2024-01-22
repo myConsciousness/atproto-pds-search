@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-01-22T10:01:47.583650
+Last Updated: 2024-01-22T12:02:36.364159
 
 ## **plc.directory**
 
@@ -498,4 +498,5 @@ Last Updated: 2024-01-22T10:01:47.583650
 |https://imbirus.ddns.net|❌|❓|
 |https://libertywave.app|✅|✅|
 |https://bluesky.expectus.fyi|✅|✅|
+|https://sbx.bsky.day|❌|❓|
 
