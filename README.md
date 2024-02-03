@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-03T20:01:38.363275
+Last Updated: 2024-02-03T22:01:39.618405
 
 ## **plc.directory**
 
@@ -505,4 +505,5 @@ Last Updated: 2024-02-03T20:01:38.363275
 |https://test-sky.uk.to|✅|✅|
 |https://bsky.nwrk.info|✅|✅|
 |https://pds.sandbox.forgeproof.id|❌|❓|
+|https://pds.nonsm.art|✅|✅|
 
