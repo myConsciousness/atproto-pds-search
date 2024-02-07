@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-07T16:02:07.471527
+Last Updated: 2024-02-07T18:01:52.642968
 
 ## **plc.directory**
 
@@ -512,4 +512,7 @@ Last Updated: 2024-02-07T16:02:07.471527
 |https://pds.anymanystreams.cc|✅|✅|
 |https://univps.blue|✅|✅|
 |https://geo.synoptic-sky.com|✅|✅|
+|https://bsky.changkyun.com|❌|❓|
+|https://sns.ham-san.net|✅|✅|
+|https://tad.social|✅|✅|
 
