@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-08T02:06:13.387344
+Last Updated: 2024-02-08T04:02:03.767744
 
 ## **plc.directory**
 
@@ -517,4 +517,7 @@ Last Updated: 2024-02-08T02:06:13.387344
 |https://sns.ham-san.net|✅|✅|
 |https://tad.social|✅|✅|
 |https://bsky.castelrosso.net|✅|✅|
+|https://bsky-test.reckless.dev|✅|✅|
+|https://rp-taki.com|❌|❓|
+|https://bluesky.rp-taki.com|✅|✅|
 
