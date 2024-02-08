@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-08T10:01:42.177149
+Last Updated: 2024-02-08T12:02:10.892582
 
 ## **plc.directory**
 
@@ -520,4 +520,5 @@ Last Updated: 2024-02-08T10:01:42.177149
 |https://bsky-test.reckless.dev|✅|✅|
 |https://rp-taki.com|❌|❓|
 |https://bluesky.rp-taki.com|✅|✅|
+|https://bluesky.eichler-bg.de|✅|✅|
 
