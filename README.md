@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-09T14:01:40.854293
+Last Updated: 2024-02-09T16:02:04.002237
 
 ## **plc.directory**
 
@@ -524,4 +524,5 @@ Last Updated: 2024-02-09T14:01:40.854293
 |https://bsky-test.kentaro1043.com|✅|✅|
 |https://bstest.8bitcanvas.com|❌|❓|
 |https://bky.lol|✅|✅|
+|https://merrioverse.space|✅|✅|
 
