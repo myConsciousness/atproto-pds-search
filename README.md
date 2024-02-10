@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-10T12:02:10.441762
+Last Updated: 2024-02-10T14:01:35.916069
 
 ## **plc.directory**
 
@@ -532,4 +532,5 @@ Last Updated: 2024-02-10T12:02:10.441762
 |https://blsy.ddaodan.cn|✅|✅|
 |https://bs.rainbowgirl.moe|✅|❌|
 |https://rainbowgirl.moe|✅|❌|
+|https://bsky.deiru.online|✅|✅|
 
