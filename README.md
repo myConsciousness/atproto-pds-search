@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-10T00:04:48.915272
+Last Updated: 2024-02-10T02:05:37.645934
 
 ## **plc.directory**
 
@@ -529,4 +529,5 @@ Last Updated: 2024-02-10T00:04:48.915272
 |https://bluesky.465789.xyz|✅|✅|
 |https://xavirev.me|❌|❓|
 |https://465789.xyz|✅|✅|
+|https://blsy.ddaodan.cn|✅|✅|
 
