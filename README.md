@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-13T10:01:42.171888
+Last Updated: 2024-02-13T12:02:06.396742
 
 ## **plc.directory**
 
@@ -537,4 +537,5 @@ Last Updated: 2024-02-13T10:01:42.171888
 |https://yjsoft.me|✅|✅|
 |https://at.mer.moe|❌|❓|
 |https://nyanskey.com|✅|✅|
+|https://test.shailendra.space|✅|✅|
 
