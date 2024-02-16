@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-16T18:02:12.466178
+Last Updated: 2024-02-16T20:01:46.299314
 
 ## **plc.directory**
 
@@ -542,4 +542,5 @@ Last Updated: 2024-02-16T18:02:12.466178
 |https://pds.at.imirhil.fr|❌|❓|
 |https://abc.com|❌|❓|
 |https://bsky.from-tw.shopl|❌|❓|
+|https://bsky.from-tw.shop|❌|❓|
 
