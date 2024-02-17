@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-17T14:01:32.469190
+Last Updated: 2024-02-17T16:01:57.715308
 
 ## **plc.directory**
 
@@ -543,4 +543,5 @@ Last Updated: 2024-02-17T14:01:32.469190
 |https://abc.com|❌|❓|
 |https://bsky.from-tw.shopl|❌|❓|
 |https://bsky.from-tw.shop|❌|❓|
+|https://bsky.metalbanana.net|✅|✅|
 
