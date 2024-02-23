@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-23T16:01:55.734849
+Last Updated: 2024-02-23T18:01:48.296210
 
 ## **plc.directory**
 
@@ -549,4 +549,5 @@ Last Updated: 2024-02-23T16:01:55.734849
 |https://sandbox.rows.io|✅|✅|
 |https://pds.shreyanjain.net|❌|❓|
 |https://pds.bsky.msbn.xyz|❌|❓|
+|https://humanist.social|✅|✅|
 
