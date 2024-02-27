@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-27T10:01:37.849044
+Last Updated: 2024-02-27T12:01:59.342863
 
 ## **plc.directory**
 
@@ -553,4 +553,5 @@ Last Updated: 2024-02-27T10:01:37.849044
 |https://pds.cryofault.net|✅|✅|
 |https://bsky.kekalainen.me|✅|✅|
 |https://abyss.computer|❌|❓|
+|https://abc.shailendra.space|✅|✅|
 
