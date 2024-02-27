@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-02-27T02:06:19.782579
+Last Updated: 2024-02-27T04:02:13.879637
 
 ## **plc.directory**
 
@@ -552,4 +552,5 @@ Last Updated: 2024-02-27T02:06:19.782579
 |https://humanist.social|✅|✅|
 |https://pds.cryofault.net|✅|✅|
 |https://bsky.kekalainen.me|✅|✅|
+|https://abyss.computer|❌|❓|
 
