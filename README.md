@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-01T04:02:03.642550
+Last Updated: 2024-03-01T06:04:25.130465
 
 ## **plc.directory**
 
@@ -555,4 +555,5 @@ Last Updated: 2024-03-01T04:02:03.642550
 |https://abyss.computer|❌|❓|
 |https://abc.shailendra.space|✅|✅|
 |https://tbsky.aere-sanctuary.net|✅|✅|
+|https://bsky.aere-sanctuary.net|❌|❓|
 
