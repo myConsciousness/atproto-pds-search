@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-03-15T18:02:01.939586
+Last Updated: 2024-03-15T20:01:41.963598
 
 ## **plc.directory**
 
@@ -558,4 +558,5 @@ Last Updated: 2024-03-15T18:02:01.939586
 |https://bsky.aere-sanctuary.net|❌|❓|
 |https://vivoliva.de|✅|✅|
 |https://pod.berjon.bast|❌|❓|
+|http://localhost:8081/|❌|❓|
 
