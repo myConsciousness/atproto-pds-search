@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-04-02T14:01:43.775285
+Last Updated: 2024-04-02T16:02:08.994347
 
 ## **plc.directory**
 
@@ -564,4 +564,5 @@ Last Updated: 2024-04-02T14:01:43.775285
 |http://localhost:8081/|❌|❓|
 |https://stg.waverly.social|✅|✅|
 |https://wave.stg.waverly.social|✅|✅|
+|https://o0o.lt|✅|✅|
 
