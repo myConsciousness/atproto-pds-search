@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-05-08T16:01:52.557463
+Last Updated: 2024-05-08T18:02:11.537802
 
 ## **plc.directory**
 
@@ -567,4 +567,6 @@ Last Updated: 2024-05-08T16:01:52.557463
 |https://o0o.lt|✅|✅|
 |https://nottyboi.me|✅|✅|
 |https://ds.povario.com|✅|✅|
+|https://tochu-cha.mydns.jp|❌|❓|
+|https://bsky.tochu-cha.mydns.jp|❌|❓|
 
