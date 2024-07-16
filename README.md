@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-07-12T01:11:17.079225
+Last Updated: 2024-07-16T23:32:31.679123
 
 ## **plc.directory**
 
@@ -546,7 +546,7 @@ Last Updated: 2024-07-12T01:11:17.079225
 |https://abc.com|❌|❓|
 |https://bsky.from-tw.shopl|❌|❓|
 |https://bsky.from-tw.shop|❌|❓|
-|https://bsky.metalbanana.net|❌|❓|
+|https://bsky.metalbanana.net|✅|✅|
 |https://pds.flicknow.xyz|❌|❓|
 |https://pds.shailendra.space|❌|❓|
 |https://sandbox.rows.io|❌|❓|
@@ -565,7 +565,7 @@ Last Updated: 2024-07-12T01:11:17.079225
 |https://stg.waverly.social|✅|✅|
 |https://wave.stg.waverly.social|✅|✅|
 |https://o0o.lt|✅|✅|
-|https://nottyboi.me|✅|✅|
+|https://nottyboi.me|❌|❓|
 |https://ds.povario.com|✅|✅|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
