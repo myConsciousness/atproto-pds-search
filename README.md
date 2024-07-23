@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-07-16T23:32:31.679123
+Last Updated: 2024-07-23T19:54:53.935876
 
 ## **plc.directory**
 
@@ -423,7 +423,7 @@ Last Updated: 2024-07-16T23:32:31.679123
 |https://aituns.com|❌|❓|
 |https://italiansky.mooo.com|❌|❓|
 |https://sky.n3otrax.fr|❌|❓|
-|https://bsky.powerg.love|✅|✅|
+|https://bsky.powerg.love|❌|❓|
 |https://atproto.brid.gy/|✅|✅|
 |https://abluehope.com|❌|❓|
 |https://bsky.mrsquaare.fr|❌|❓|
@@ -528,7 +528,7 @@ Last Updated: 2024-07-16T23:32:31.679123
 |https://bstest.8bitcanvas.com|❌|❓|
 |https://bky.lol|❌|❓|
 |https://merrioverse.space|❌|❓|
-|https://omoch.ing|❌|❓|
+|https://omoch.ing|✅|✅|
 |https://bluesky.465789.xyz|❌|❓|
 |https://xavirev.me|❌|❓|
 |https://465789.xyz|✅|✅|
@@ -546,7 +546,7 @@ Last Updated: 2024-07-16T23:32:31.679123
 |https://abc.com|❌|❓|
 |https://bsky.from-tw.shopl|❌|❓|
 |https://bsky.from-tw.shop|❌|❓|
-|https://bsky.metalbanana.net|✅|✅|
+|https://bsky.metalbanana.net|❌|❓|
 |https://pds.flicknow.xyz|❌|❓|
 |https://pds.shailendra.space|❌|❓|
 |https://sandbox.rows.io|❌|❓|
