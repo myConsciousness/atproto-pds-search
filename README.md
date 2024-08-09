@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-08-01T21:59:20.611598
+Last Updated: 2024-08-09T23:47:36.948811
 
 ## **plc.directory**
 
@@ -57,7 +57,7 @@ Last Updated: 2024-08-01T21:59:20.611598
 |https://pds.dev.retr0.id|❌|❓|
 |https://cloudcaine.thecubic.net|❌|❓|
 |https://hellthread.pro|✅|✅|
-|https://bsky.pupbrained.xyz|❌|❓|
+|https://bsky.pupbrained.xyz|✅|✅|
 |https://henshaw.org|❌|❓|
 |https://pds.canidae.systems|❌|❓|
 |https://pds.jet.tf|❌|❓|
@@ -506,7 +506,7 @@ Last Updated: 2024-08-01T21:59:20.611598
 |https://libertywave.app|❌|❓|
 |https://bluesky.expectus.fyi|❌|❓|
 |https://sbx.bsky.day|❌|❓|
-|https://sandbox.bsky.day|✅|✅|
+|https://sandbox.bsky.day|❌|❓|
 |https://test-sky.uk.to|❌|❓|
 |https://bsky.nwrk.info|❌|❓|
 |https://pds.sandbox.forgeproof.id|❌|❓|
@@ -565,8 +565,8 @@ Last Updated: 2024-08-01T21:59:20.611598
 |https://stg.waverly.social|✅|✅|
 |https://wave.stg.waverly.social|✅|✅|
 |https://o0o.lt|✅|✅|
-|https://nottyboi.me|❌|❓|
-|https://ds.povario.com|✅|✅|
+|https://nottyboi.me|✅|✅|
+|https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
 
