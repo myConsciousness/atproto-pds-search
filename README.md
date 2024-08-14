@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-08-11T08:00:23.146737
+Last Updated: 2024-08-14T14:32:07.834538
 
 ## **plc.directory**
 
@@ -562,10 +562,10 @@ Last Updated: 2024-08-11T08:00:23.146737
 |https://vivoliva.de|❌|❓|
 |https://pod.berjon.bast|❌|❓|
 |http://localhost:8081/|❌|❓|
-|https://stg.waverly.social|✅|✅|
-|https://wave.stg.waverly.social|✅|✅|
+|https://stg.waverly.social|❌|❓|
+|https://wave.stg.waverly.social|❌|❓|
 |https://o0o.lt|✅|✅|
-|https://nottyboi.me|✅|✅|
+|https://nottyboi.me|❌|❓|
 |https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
