@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-08-14T22:31:19.594540
+Last Updated: 2024-08-18T01:31:49.518036
 
 ## **plc.directory**
 
@@ -342,7 +342,7 @@ Last Updated: 2024-08-14T22:31:19.594540
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|✅|❌|
+|https://kiichigo.cloud|❌|❓|
 |https://atsandbox.kyriog.fr|❌|❓|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|❌|❓|
@@ -565,7 +565,7 @@ Last Updated: 2024-08-14T22:31:19.594540
 |https://stg.waverly.social|❌|❓|
 |https://wave.stg.waverly.social|❌|❓|
 |https://o0o.lt|✅|✅|
-|https://nottyboi.me|❌|❓|
+|https://nottyboi.me|✅|✅|
 |https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
