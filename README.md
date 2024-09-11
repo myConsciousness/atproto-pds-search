@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-08-18T01:31:49.518036
+Last Updated: 2024-09-11T01:53:22.901207
 
 ## **plc.directory**
 
@@ -80,7 +80,7 @@ Last Updated: 2024-08-18T01:31:49.518036
 |https://pds.insanemode.org|❌|❓|
 |https://bsky.asuna.dev|❌|❓|
 |https://pds-sb-1.goykasi.com|❌|❓|
-|https://bsky.pmj.rocks|❌|❓|
+|https://bsky.pmj.rocks|✅|✅|
 |https://kawaikute-gomen.com|❌|❓|
 |https://pds-sb-2.goykasi.com|❌|❓|
 |https://bs.bridgey.dev|❌|❓|
@@ -271,7 +271,7 @@ Last Updated: 2024-08-18T01:31:49.518036
 |https://localhost:8080|❌|❓|
 |https://bsky-test.harashio.jp|❌|❓|
 |https://bsky.awaken.page|❌|❓|
-|https://bum.ninja|✅|✅|
+|https://bum.ninja|❌|❓|
 |https://purplesky.sesilaso.com|❌|❓|
 |https://bsky.davidfernandez.xyz|❌|❓|
 |https://vengeful.eu|✅|✅|
@@ -342,7 +342,7 @@ Last Updated: 2024-08-18T01:31:49.518036
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|❌|❓|
+|https://kiichigo.cloud|✅|❌|
 |https://atsandbox.kyriog.fr|❌|❓|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|❌|❓|
@@ -438,9 +438,9 @@ Last Updated: 2024-08-18T01:31:49.518036
 |https://uat.lol|❌|❓|
 |https://bsky.c-onner.de|❌|❓|
 |https://americocarelli.com.br|❌|❓|
-|https://derpzilla.net|✅|❌|
+|https://derpzilla.net|❌|❓|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|✅|✅|
+|https://corgi.dance|❌|❓|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
@@ -506,7 +506,7 @@ Last Updated: 2024-08-18T01:31:49.518036
 |https://libertywave.app|❌|❓|
 |https://bluesky.expectus.fyi|❌|❓|
 |https://sbx.bsky.day|❌|❓|
-|https://sandbox.bsky.day|❌|❓|
+|https://sandbox.bsky.day|✅|✅|
 |https://test-sky.uk.to|❌|❓|
 |https://bsky.nwrk.info|❌|❓|
 |https://pds.sandbox.forgeproof.id|❌|❓|
@@ -564,8 +564,8 @@ Last Updated: 2024-08-18T01:31:49.518036
 |http://localhost:8081/|❌|❓|
 |https://stg.waverly.social|❌|❓|
 |https://wave.stg.waverly.social|❌|❓|
-|https://o0o.lt|✅|✅|
-|https://nottyboi.me|✅|✅|
+|https://o0o.lt|❌|❓|
+|https://nottyboi.me|❌|❓|
 |https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
