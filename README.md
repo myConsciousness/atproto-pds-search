@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-09-13T15:36:04.659297
+Last Updated: 2024-09-18T05:19:31.633441
 
 ## **plc.directory**
 
@@ -281,7 +281,7 @@ Last Updated: 2024-09-13T15:36:04.659297
 |https://pds.staging.bteklabs.com|❌|❓|
 |https://afternooncurry.com|✅|✅|
 |https://bsky.whoverse.nexus|❌|❓|
-|https://zima.ge|✅|✅|
+|https://zima.ge|❌|❓|
 |https://bsk.lukas-diekmann.de|❌|❓|
 |https://bluesky.demokratie.cool|❌|❓|
 |https://itsastretch.net|❌|❓|
@@ -342,7 +342,7 @@ Last Updated: 2024-09-13T15:36:04.659297
 |https://due-it.com|❌|❓|
 |https://blue.cb-homelab.de|❌|❓|
 |https://x.kex.biz|❌|❓|
-|https://kiichigo.cloud|✅|❌|
+|https://kiichigo.cloud|❌|❓|
 |https://atsandbox.kyriog.fr|❌|❓|
 |https://bsky-sandbox.amith.sbs|❌|❓|
 |https://bskysbox.amith.sbs|❌|❓|
@@ -440,7 +440,7 @@ Last Updated: 2024-09-13T15:36:04.659297
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|❌|❓|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|❌|❓|
+|https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
