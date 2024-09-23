@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-09-18T13:41:21.313418
+Last Updated: 2024-09-23T00:26:14.443602
 
 ## **plc.directory**
 
@@ -307,7 +307,7 @@ Last Updated: 2024-09-18T13:41:21.313418
 |https://bluesky.jayp.io|❌|❓|
 |https://this-is-epic.space|❌|❓|
 |https://tsuki.social|❌|❓|
-|https://x-mweya.duckdns.org|❌|❓|
+|https://x-mweya.duckdns.org|✅|✅|
 |https://fraudulent.link|❌|❓|
 |https://utatane.blue|❌|❓|
 |https://b.browsersource.dev|❌|❓|
@@ -373,7 +373,7 @@ Last Updated: 2024-09-18T13:41:21.313418
 |https://maddesjg.eu|❌|❓|
 |https://joost.social|✅|✅|
 |https://journalist.social|❌|❓|
-|https://creaton.social|❌|❓|
+|https://creaton.social|✅|✅|
 |https://nerdynate.io|❌|❓|
 |https://pds.vriska.dev|✅|✅|
 |https://matthews-kennington.com|✅|✅|
@@ -440,7 +440,7 @@ Last Updated: 2024-09-18T13:41:21.313418
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|❌|❓|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|❌|❓|
+|https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
@@ -550,7 +550,7 @@ Last Updated: 2024-09-18T13:41:21.313418
 |https://pds.flicknow.xyz|❌|❓|
 |https://pds.shailendra.space|❌|❓|
 |https://sandbox.rows.io|❌|❓|
-|https://pds.shreyanjain.net|✅|✅|
+|https://pds.shreyanjain.net|❌|❓|
 |https://pds.bsky.msbn.xyz|❌|❓|
 |https://humanist.social|❌|❓|
 |https://pds.cryofault.net|❌|❓|
@@ -562,8 +562,8 @@ Last Updated: 2024-09-18T13:41:21.313418
 |https://vivoliva.de|❌|❓|
 |https://pod.berjon.bast|❌|❓|
 |http://localhost:8081/|❌|❓|
-|https://stg.waverly.social|❌|❓|
-|https://wave.stg.waverly.social|❌|❓|
+|https://stg.waverly.social|✅|✅|
+|https://wave.stg.waverly.social|✅|✅|
 |https://o0o.lt|❌|❓|
 |https://nottyboi.me|❌|❓|
 |https://ds.povario.com|❌|❓|
