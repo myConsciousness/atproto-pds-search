@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-09-24T10:33:36.155912
+Last Updated: 2024-10-10T22:12:25.636894
 
 ## **plc.directory**
 
@@ -86,7 +86,7 @@ Last Updated: 2024-09-24T10:33:36.155912
 |https://bs.bridgey.dev|❌|❓|
 |https://sandbox.pds.h3y6e.com|❌|❓|
 |https://dev.otaso-sky.blue|❌|❓|
-|https://labo.moe|✅|✅|
+|https://labo.moe|❌|❓|
 |https://test-pds.gwei.cz|❌|❓|
 |https://bsky.coma.social|❌|❓|
 |https://robramos.xyz|❌|❓|
@@ -131,7 +131,7 @@ Last Updated: 2024-09-24T10:33:36.155912
 |https://zalupa.in.ua|❌|❓|
 |https://bluesky.formless.xyz|❌|❓|
 |https://mywaverly.com|❌|❓|
-|https://disbursement.center|✅|✅|
+|https://disbursement.center|❌|❓|
 |https://bsky-pds.dolciss.net|❌|❓|
 |https://sandbox.erechorse.com|❌|❓|
 |https://atp.mywaverly.com|❌|❓|
@@ -381,7 +381,7 @@ Last Updated: 2024-09-24T10:33:36.155912
 |https://pds.ssauer.co.za|❌|❓|
 |https://furartist.art|❌|❓|
 |https://void.zct-mrl.com|❌|❓|
-|https://bluesky.migennes.org|✅|✅|
+|https://bluesky.migennes.org|❌|❓|
 |https://bsky.meis.space|❌|❓|
 |https://bs.raccoon-city.at|❌|❓|
 |https://belana.epicgreen.nl|❌|❓|
@@ -440,7 +440,7 @@ Last Updated: 2024-09-24T10:33:36.155912
 |https://americocarelli.com.br|❌|❓|
 |https://derpzilla.net|❌|❓|
 |https://musicproduction.world|❌|❓|
-|https://corgi.dance|❌|❓|
+|https://corgi.dance|✅|✅|
 |https://atproto.stereosteve.com|❌|❓|
 |https://casadeladra.ddnss.de|❌|❓|
 |https://blues.psionprotocol.com|❌|❓|
@@ -550,7 +550,7 @@ Last Updated: 2024-09-24T10:33:36.155912
 |https://pds.flicknow.xyz|❌|❓|
 |https://pds.shailendra.space|❌|❓|
 |https://sandbox.rows.io|❌|❓|
-|https://pds.shreyanjain.net|❌|❓|
+|https://pds.shreyanjain.net|✅|✅|
 |https://pds.bsky.msbn.xyz|❌|❓|
 |https://humanist.social|❌|❓|
 |https://pds.cryofault.net|❌|❓|
@@ -562,8 +562,8 @@ Last Updated: 2024-09-24T10:33:36.155912
 |https://vivoliva.de|❌|❓|
 |https://pod.berjon.bast|❌|❓|
 |http://localhost:8081/|❌|❓|
-|https://stg.waverly.social|✅|✅|
-|https://wave.stg.waverly.social|✅|✅|
+|https://stg.waverly.social|❌|❓|
+|https://wave.stg.waverly.social|❌|❓|
 |https://o0o.lt|❌|❓|
 |https://nottyboi.me|❌|❓|
 |https://ds.povario.com|❌|❓|
