@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-10-13T23:29:47.821854
+Last Updated: 2024-10-14T01:28:51.165585
 
 ## **plc.directory**
 
@@ -169,7 +169,7 @@ Last Updated: 2024-10-13T23:29:47.821854
 |https://tinypds.h3y6e.com|❌|❓|
 |https://none.social|❌|❓|
 |https://revpub.net|❌|❓|
-|https://dawn.atproto.zigler.ai|✅|✅|
+|https://dawn.atproto.zigler.ai|❌|❓|
 |https://pds.stevenselph.com|❌|❓|
 |https://bsky.felipecruz.es|❌|❓|
 |https://sunairo.moegi.stream|❌|❓|
