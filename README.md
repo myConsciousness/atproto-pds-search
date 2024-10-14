@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-10-14T07:28:26.011239
+Last Updated: 2024-10-14T09:32:06.247832
 
 ## **plc.directory**
 
@@ -369,7 +369,7 @@ Last Updated: 2024-10-14T07:28:26.011239
 |https://bskysandbox.edavis.dev|❌|❓|
 |https://social.derg.fr|❌|❓|
 |https://hug.mx|❌|❓|
-|https://bsky.zoeyvid.de|❌|❓|
+|https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|❌|❓|
 |https://joost.social|❌|❓|
 |https://journalist.social|❌|❓|
