@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-10-15T06:25:15.542164
+Last Updated: 2024-10-15T08:29:47.809197
 
 ## **plc.directory**
 
@@ -553,7 +553,7 @@ Last Updated: 2024-10-15T06:25:15.542164
 |https://pds.shreyanjain.net|✅|✅|
 |https://pds.bsky.msbn.xyz|❌|❓|
 |https://humanist.social|❌|❓|
-|https://pds.cryofault.net|❌|❓|
+|https://pds.cryofault.net|✅|✅|
 |https://bsky.kekalainen.me|❌|❓|
 |https://abyss.computer|❌|❓|
 |https://abc.shailendra.space|❌|❓|
@@ -565,7 +565,7 @@ Last Updated: 2024-10-15T06:25:15.542164
 |https://stg.waverly.social|❌|❓|
 |https://wave.stg.waverly.social|❌|❓|
 |https://o0o.lt|❌|❓|
-|https://nottyboi.me|❌|❓|
+|https://nottyboi.me|✅|✅|
 |https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
