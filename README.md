@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-10-15T10:28:32.908208
+Last Updated: 2024-10-15T12:23:49.126810
 
 ## **plc.directory**
 
@@ -369,7 +369,7 @@ Last Updated: 2024-10-15T10:28:32.908208
 |https://bskysandbox.edavis.dev|❌|❓|
 |https://social.derg.fr|❌|❓|
 |https://hug.mx|❌|❓|
-|https://bsky.zoeyvid.de|❌|❓|
+|https://bsky.zoeyvid.de|✅|✅|
 |https://maddesjg.eu|❌|❓|
 |https://joost.social|❌|❓|
 |https://journalist.social|❌|❓|
@@ -565,7 +565,7 @@ Last Updated: 2024-10-15T10:28:32.908208
 |https://stg.waverly.social|❌|❓|
 |https://wave.stg.waverly.social|❌|❓|
 |https://o0o.lt|❌|❓|
-|https://nottyboi.me|✅|✅|
+|https://nottyboi.me|❌|❓|
 |https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
