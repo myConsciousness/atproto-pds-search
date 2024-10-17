@@ -1,12 +1,12 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-10-17T11:13:53.179963
+Last Updated: 2024-10-17T13:11:15.284799
 
 ## **plc.directory**
 
 |PDS Endpoint|Active|Invite Code Required|
 |---|:---:|:---:|
-|https://bsky.social|✅|❌|
+|https://bsky.social|❌|❓|
 |https://boobee.blue|✅|✅|
 |https://redocean.one|✅|✅|
 |https://uwu|❌|❓|
@@ -369,7 +369,7 @@ Last Updated: 2024-10-17T11:13:53.179963
 |https://bskysandbox.edavis.dev|❌|❓|
 |https://social.derg.fr|❌|❓|
 |https://hug.mx|❌|❓|
-|https://bsky.zoeyvid.de|✅|✅|
+|https://bsky.zoeyvid.de|❌|❓|
 |https://maddesjg.eu|❌|❓|
 |https://joost.social|❌|❓|
 |https://journalist.social|❌|❓|
@@ -472,7 +472,7 @@ Last Updated: 2024-10-17T11:13:53.179963
 |https://sturmdev.com|❌|❓|
 |https://bluesky.cyberveins.eu|❌|❓|
 |https://home.cyberveins.eu|❌|❓|
-|https://bsky.social|❌|❓|
+|https://bsky.social|✅|❌|
 |https://cultured.black|❌|❓|
 |https://thekayou.com|❌|❓|
 |https://sky.manikineko.nl|❌|❓|
