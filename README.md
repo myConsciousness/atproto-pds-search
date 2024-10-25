@@ -1,6 +1,6 @@
 # Crawled ATProto PDS 👀
 
-Last Updated: 2024-10-24T23:13:50.135484
+Last Updated: 2024-10-25T01:07:18.125194
 
 ## **plc.directory**
 
@@ -393,7 +393,7 @@ Last Updated: 2024-10-24T23:13:50.135484
 |https://siriussocial.de|❌|❓|
 |https://bsky.kemono.in.th|❌|❓|
 |https://bsky.ponscele.fr|❌|❓|
-|https://bluesky.animint.fr|✅|✅|
+|https://bluesky.animint.fr|❌|❓|
 |https://sardine.pics|❌|❓|
 |https://baisodro.me|❌|❓|
 |https://bluesky-pds.fly.dev|❌|❓|
@@ -565,7 +565,7 @@ Last Updated: 2024-10-24T23:13:50.135484
 |https://stg.waverly.social|❌|❓|
 |https://wave.stg.waverly.social|❌|❓|
 |https://o0o.lt|❌|❓|
-|https://nottyboi.me|✅|✅|
+|https://nottyboi.me|❌|❓|
 |https://ds.povario.com|❌|❓|
 |https://tochu-cha.mydns.jp|❌|❓|
 |https://bsky.tochu-cha.mydns.jp|❌|❓|
